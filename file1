@@ -1,0 +1,1347 @@
+#EXTM3U
+#EXTINF:-1 group-title="Peliculas y series",A&E HD
+http://190.108.87.149:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",AMC HD
+http://190.108.87.149:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",AXN HD
+http://190.108.87.149:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",CINE FAMILIAR HD
+http://191.97.60.193:10000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",CINE HISPANO HD
+http://191.97.60.193:10000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Cine Latino
+http://190.108.87.149:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",CINE PREMIUM HD
+http://191.97.60.193:10000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",CINECANAL HD
+http://190.108.87.149:8000/play/a04l/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Claro Cinema
+http://190.108.87.149:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",DHE HD
+http://190.108.87.149:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Europa HD
+http://190.108.87.149:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Film & Arts
+http://190.108.87.149:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Film & arts HD
+http://190.108.87.149:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",FMH - MOVIES
+http://191.97.60.193:10000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",FMH FAMILY
+http://191.97.60.193:10000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",FX
+http://190.108.87.149:8000/play/a0ia/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",FX HD
+http://190.108.87.149:8000/play/a0ew/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",FX Movies HD
+http://190.108.87.149:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Golden
+http://190.108.87.149:8000/play/a0d1/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",HBO Family HD
+http://190.108.87.149:8000/play/a0d9/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",HBO HD
+http://190.108.87.149:8000/play/a0d6/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",HBO Plus HD
+http://190.108.87.149:8000/play/a0d8/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",HBO XTREME
+http://190.108.87.149:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",HBO2 HD
+http://190.108.87.149:8000/play/a0d7/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Multipremier
+http://190.108.87.149:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Paramount HD
+http://190.108.87.149:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Prueba de AMERICA TV 
+http://191.97.60.193:10000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",SONY HD
+http://190.108.87.149:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",SPACE HD
+http://190.108.87.149:8000/play/a061/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",STAR CHANNEL HD
+http://190.108.87.149:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Studio Universal HD
+http://190.108.87.149:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",SyFy
+http://190.108.87.149:8000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",TCM
+http://190.108.87.149:8000/play/a0gk/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",TNT HD
+http://190.108.87.149:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",TNT Series HD
+http://190.108.87.149:8000/play/a068/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL CINEMA HD
+http://190.108.87.149:8000/play/a0ii/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL COMEDY HD
+http://190.108.87.149:8000/play/a0io/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL CRIME HD
+http://190.108.87.149:8000/play/a0in/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL PREMIERE HD
+http://190.108.87.149:8000/play/a0ik/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL PREMIERE HD
+http://190.108.87.149:8000/play/a0if/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL PREMIERE O HD
+http://190.108.87.149:8000/play/a0il/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",UNIVERSAL REALITY HD
+http://190.108.87.149:8000/play/a0im/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",Warner
+http://190.108.87.149:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Peliculas y series",WARNER HD
+http://190.108.87.149:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Azcorazon
+http://190.108.87.149:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Azteca Internacional
+http://190.108.87.149:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Clic HD
+http://190.108.87.149:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Comedy Central HD
+http://190.108.87.149:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",E! Entertairment HD
+http://190.108.87.149:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",HOLA! TV HD
+http://190.108.87.149:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Home & Health HD
+http://190.108.87.149:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",MIFIBRA  CH 03
+http://191.97.60.193:10000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",MIFIBRA  CH 57
+http://191.97.60.193:10000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Pasiones HD
+http://190.108.87.149:8000/play/a0f6/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Star TVE
+http://190.108.87.149:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Star TVE HD
+http://191.97.60.193:10000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Telemundo
+http://190.108.87.149:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Telemundo HD
+http://190.108.87.149:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TLC
+http://190.108.87.149:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TNT Novelas
+http://190.108.87.149:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Tru TV
+http://190.108.87.149:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",TVE Internacional
+http://191.97.60.193:10000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Univision HD
+http://190.108.87.149:8000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-name="|LT| AZ MAS" group-title="Mexico",|LT| AZ Clic HD
+http://faucontv.live:8080/@messie12/b5HS41z/12158
+#EXTINF:-1 tvg-name="|LT| AZ UNO" group-title="Mexico",|LT| AZ UNO
+http://faucontv.live:8080/@messie12/b5HS41z/12165
+#EXTINF:-1 tvg-name="|LT| AZTECA 7" group-title="Mexico",|LT| AZTECA 7
+http://faucontv.live:8080/@messie12/b5HS41z/12160
+#EXTINF:-1 tvg-name="|LT| AZTECA CINEMA" group-title="Mexico",|LT| AZTECA CINEMA
+http://faucontv.live:8080/@messie12/b5HS41z/12161
+#EXTINF:-1 tvg-name="|LT| AZTECA CLIC" group-title="Mexico",|LT| AZTECA CLIC
+http://faucontv.live:8080/@messie12/b5HS41z/12159
+#EXTINF:-1 tvg-name="|LT| AZTECA CORAZON" group-title="Mexico",|LT| AZTECA CORAZON
+http://faucontv.live:8080/@messie12/b5HS41z/12166
+#EXTINF:-1 tvg-name="|LT| CANAL 11" group-title="Mexico",|LT| CANAL 11
+http://faucontv.live:8080/@messie12/b5HS41z/12154
+#EXTINF:-1 tvg-name="|LT| CANAL 5" group-title="Mexico",|LT| CANAL 5
+http://faucontv.live:8080/@messie12/b5HS41z/12155
+#EXTINF:-1 tvg-name="|LT| CANAL DE LAS ESTRELLAS." group-title="Mexico",|LT| CANAL DE LAS ESTRELLAS.
+http://faucontv.live:8080/@messie12/b5HS41z/12156
+#EXTINF:-1 tvg-name="|LT| UNICABLE" group-title="Mexico",|LT| UNICABLE
+http://faucontv.live:8080/@messie12/b5HS41z/12094
+#EXTINF:-1 tvg-name="|LT| UNIMAS" tvg-logo="https://asiagrandiptv.us/logo/unimas.png" group-title="Mexico",|LT| UNIMAS
+http://faucontv.live:8080/@messie12/b5HS41z/12081
+#EXTINF:-1 tvg-name="|LT| UNIVISION TELENOVELAS" group-title="Mexico",|LT| UNIVISION TELENOVELAS
+http://faucontv.live:8080/@messie12/b5HS41z/12134
+#EXTINF:-1 group-title="Deportes",BASKET TV
+http://191.97.60.193:10000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Sports  HD
+http://190.108.87.149:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-name="ES: #Vamos" group-title="Deportes",ES: #Vamos
+http://faucontv.live:8080/@messie12/b5HS41z/114549
+#EXTINF:-1 tvg-name="ES: #Vamos FHD" group-title="Deportes",ES: #Vamos FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114548
+#EXTINF:-1 tvg-name="ES: Barca TV" group-title="Deportes",ES: Barca TV
+http://faucontv.live:8080/@messie12/b5HS41z/114583
+#EXTINF:-1 tvg-name="ES: Dazn 1 FHD" group-title="Deportes",ES: Dazn 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114570
+#EXTINF:-1 tvg-name="ES: Dazn 2 FHD" group-title="Deportes",ES: Dazn 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114571
+#EXTINF:-1 tvg-name="ES: Dazn 3 FHD" group-title="Deportes",ES: Dazn 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114572
+#EXTINF:-1 tvg-name="ES: Dazn F1" group-title="Deportes",ES: Dazn F1
+http://faucontv.live:8080/@messie12/b5HS41z/114569
+#EXTINF:-1 tvg-name="ES: Eurosport 1 HD" group-title="Deportes",ES: Eurosport 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114578
+#EXTINF:-1 tvg-name="ES: Eurosport 2" group-title="Deportes",ES: Eurosport 2
+http://faucontv.live:8080/@messie12/b5HS41z/114579
+#EXTINF:-1 tvg-name="ES: Formula 1 HD" group-title="Deportes",ES: Formula 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114568
+#EXTINF:-1 tvg-name="ES: Gol TV" group-title="Deportes",ES: Gol TV
+http://faucontv.live:8080/@messie12/b5HS41z/114585
+#EXTINF:-1 tvg-name="ES: La Liga TV BAR FHD" group-title="Deportes",ES: La Liga TV BAR FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114574
+#EXTINF:-1 tvg-name="ES: La Liga TV Bar HD" group-title="Deportes",ES: La Liga TV Bar HD
+http://faucontv.live:8080/@messie12/b5HS41z/114575
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 1 FHD" group-title="Deportes",ES: Liga De Campeones 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114588
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 2 FHD" group-title="Deportes",ES: Liga De Campeones 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114589
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 3 HD" group-title="Deportes",ES: Liga De Campeones 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114590
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 4 HD" group-title="Deportes",ES: Liga De Campeones 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/114591
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 5" tvg-logo="[" group-title="Deportes",ES: Liga De Campeones 5
+http://faucontv.live:8080/@messie12/b5HS41z/114592
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 6" group-title="Deportes",ES: Liga De Campeones 6
+http://faucontv.live:8080/@messie12/b5HS41z/114593
+#EXTINF:-1 tvg-name="ES: Liga De Campeones 8" group-title="Deportes",ES: Liga De Campeones 8
+http://faucontv.live:8080/@messie12/b5HS41z/114595
+#EXTINF:-1 tvg-name="ES: M. Deportes" group-title="Deportes",ES: M. Deportes
+http://faucontv.live:8080/@messie12/b5HS41z/114552
+#EXTINF:-1 tvg-name="ES: M. Deportes 1" group-title="Deportes",ES: M. Deportes 1
+http://faucontv.live:8080/@messie12/b5HS41z/114554
+#EXTINF:-1 tvg-name="ES: M. Deportes 1 FHD" group-title="Deportes",ES: M. Deportes 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114553
+#EXTINF:-1 tvg-name="ES: M. Deportes 2" group-title="Deportes",ES: M. Deportes 2
+http://faucontv.live:8080/@messie12/b5HS41z/114555
+#EXTINF:-1 tvg-name="ES: M. Deportes FHD" group-title="Deportes",ES: M. Deportes FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114551
+#EXTINF:-1 tvg-name="ES: M. Formula 1 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="Deportes",ES: M. Formula 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114567
+#EXTINF:-1 tvg-name="ES: M. Golf FHD" group-title="Deportes",ES: M. Golf FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114565
+#EXTINF:-1 tvg-name="ES: M. Golf HD" group-title="Deportes",ES: M. Golf HD
+http://faucontv.live:8080/@messie12/b5HS41z/114566
+#EXTINF:-1 tvg-name="ES: Multideporte" group-title="Deportes",ES: Multideporte
+http://faucontv.live:8080/@messie12/b5HS41z/114581
+#EXTINF:-1 tvg-name="ES: Teledeporte" group-title="Deportes",ES: Teledeporte
+http://faucontv.live:8080/@messie12/b5HS41z/114580
+#EXTINF:-1 tvg-name="ES: Toros FHD" group-title="Deportes",ES: Toros FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114576
+#EXTINF:-1 tvg-name="ES: Vamos Bar" group-title="Deportes",ES: Vamos Bar
+http://faucontv.live:8080/@messie12/b5HS41z/114550
+#EXTINF:-1 tvg-name="ES: Dazn 4 FHD" group-title="Deportes",ES: Dazn 4 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114573
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
+http://190.108.87.149:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
+http://190.108.87.149:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN HD
+http://190.108.87.149:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN NEWS US
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/57189
+#EXTINF:-1 group-title="Deportes",Fox Sports  HD
+http://190.108.87.149:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 2 HD
+http://190.108.87.149:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Deportes",FOX SPORTS 3 HD
+http://190.108.87.149:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="Deportes",Golf Channel HD
+http://190.108.87.149:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Deportes",Golperu
+http://faucontv.live:8080/@messie12/b5HS41z/12282
+#EXTINF:-1 group-title="Deportes",Liga 1 Max
+http://181.177.255.253:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="Deportes",OVACION
+http://191.97.60.193:10000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Deportes",TITAN
+http://191.97.60.193:10000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-name="[ES] Eurosport 1 FHD" group-title="Deportes",[ES] Eurosport 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/114577
+#EXTINF:-1 tvg-name="[ES] M. Deportes 3" group-title="Deportes",[ES] M. Deportes 3
+http://faucontv.live:8080/@messie12/b5HS41z/114557
+#EXTINF:-1 tvg-name="[ES] M. Deportes 4" group-title="Deportes",[ES] M. Deportes 4
+http://faucontv.live:8080/@messie12/b5HS41z/114556
+#EXTINF:-1 tvg-name="[ES] M. Liga De Campeones HD" group-title="Deportes",[ES] M. Liga De Campeones HD
+http://faucontv.live:8080/@messie12/b5HS41z/114587
+#EXTINF:-1 tvg-name="[ES] Real Madrid TV" group-title="Deportes",[ES] Real Madrid TV
+http://faucontv.live:8080/@messie12/b5HS41z/114582
+#EXTINF:-1 tvg-name="[ES] Sevilla FC" group-title="Deportes",[ES] Sevilla FC
+http://faucontv.live:8080/@messie12/b5HS41z/114586
+#EXTINF:-1 group-title="Kids",ANIMOTION 
+http://191.97.60.193:10000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Kids",CANAL INFANTIL HD
+http://191.97.60.193:10000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://190.108.87.149:8000/play/a0d5/index.m3u8
+#EXTINF:-1 group-title="Kids",Cartoonito
+http://190.108.87.149:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Kids",FMH KIDS
+http://191.97.60.193:10000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Kids",FUN BOX
+http://191.97.60.193:10000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Kids",Nick 2 HD
+http://190.108.87.149:8000/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="Kids",Nick Jr
+http://190.108.87.149:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Kids",Nick SIM HD
+http://190.108.87.149:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Kids",SEMILLITAS
+http://190.108.87.149:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Musica",15.3 URBANO TV
+http://191.97.60.193:10000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Musica",31.4 MIAMI TV
+http://191.97.60.193:10000/play/a045/index.m3u8
+#EXTINF:-1 group-title="Musica",Claro Musica
+http://190.108.87.149:8000/play/a0d0/index.m3u8
+#EXTINF:-1 group-title="Musica",Concert Channel
+http://190.108.87.149:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA  HITS
+http://191.97.60.193:10000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA  K-POP
+http://191.97.60.193:10000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Musica",MI MUSICA  PERU
+http://191.97.60.193:10000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Musica",MiMusica HD Salsa
+http://191.97.60.193:10000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV 00s
+http://190.108.87.149:8000/play/a0f3/index.m3u8
+#EXTINF:-1 group-title="Musica",MTV SIM HD
+http://190.108.87.149:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="Musica",VH1 HD
+http://190.108.87.149:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="Regionales",4 - Repretel
+http://190.108.87.149:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="Regionales",Antena 7- RD
+http://190.108.87.149:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Regionales",ATLAS
+http://191.97.60.193:10000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Regionales",Canal 13-GUA
+http://190.108.87.149:8000/play/a0ex/index.m3u8
+#EXTINF:-1 group-title="Regionales",Canal 3 - GUA
+http://190.108.87.149:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Regionales",Canal 7 - GUA
+http://190.108.87.149:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Regionales",Canal Antigua - GUA
+http://190.108.87.149:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Regionales",Canal Azteca - GUA
+http://190.108.87.149:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Regionales",canal prueba tv carioca
+http://191.97.60.193:10000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Regionales",CCN
+http://190.108.87.149:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Regionales",CGN TV (30.5)
+http://191.97.60.193:10000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Regionales",CGN TV-respaldo
+http://191.97.60.193:10000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Regionales",Color Vision 9 - RD
+http://190.108.87.149:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="Regionales",Guatevision - GUA
+http://190.108.87.149:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Regionales",FUNOON HD
+http://191.97.60.193:10000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Regionales",QATAR en vivo
+http://190.108.87.149:8000/play/a0je/index.m3u8
+#EXTINF:-1 group-title="Regionales",Sophia TV-respaldo
+http://191.97.60.193:10000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Regionales",TE QUIERO TV
+http://191.97.60.193:10000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Regionales",Tele Antillas - RD
+http://190.108.87.149:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Regionales",TeleMicro - RD
+http://190.108.87.149:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Regionales",Telesistema RD
+http://190.108.87.149:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Regionales",TEST CARIOCA -URL
+http://191.97.60.193:10000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Regionales",CLAN
+http://191.97.60.193:10000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Regionales",TV  Max - PAN
+http://190.108.87.149:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Cultural",Animal Planet HD
+http://190.108.87.149:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Cultural",Discovery Channel HD
+http://190.108.87.149:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="Cultural",Discovery ID HD
+http://190.108.87.149:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Cultural",DISCOVERY THEATHER HD
+http://190.108.87.149:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Cultural",Discovery World HD
+http://190.108.87.149:8000/play/a06b/index.m3u8
+#EXTINF:-1 group-title="Cultural",H2
+http://190.108.87.149:8000/play/a0cz/index.m3u8
+#EXTINF:-1 group-title="Cultural",History HD
+http://190.108.87.149:8000/play/a0et/index.m3u8
+#EXTINF:-1 group-title="Cultural",Nat Geo HD
+http://190.108.87.149:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="Noticias",24h
+http://191.97.60.193:10000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Noticias",30.1 DW ESPANOL HD
+http://191.97.60.193:10000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Noticias",30.2 RT ESP-INN
+http://191.97.60.193:10000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Noticias",30.3 NHK
+http://191.97.60.193:10000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Noticias",30.4 CGTN HD
+http://191.97.60.193:10000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Noticias",31.1 ALJAZEERA HD
+http://191.97.60.193:10000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Noticias",31.2 HISPAN TV HD
+http://191.97.60.193:10000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Noticias",BBC News
+http://190.108.87.149:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Noticias",CNNE
+http://190.108.87.149:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Noticias",France24
+http://190.108.87.149:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Noticias",DW Espanol HD-Respaldo
+http://191.97.60.193:10000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Noticias",HispanTv
+http://191.97.60.193:10000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Noticias",NTN 24
+http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62756
+#EXTINF:-1 group-title="Religion",20.3 ENLACEHD-(Lim)-INN
+http://191.97.60.193:10000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Religion",20.4 EWTN
+http://191.97.60.193:10000/play/a064/index.m3u8
+#EXTINF:-1 group-title="Religion",20.5 VATICAN MEDIA AMERICA
+http://191.97.60.193:10000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Religion",20.6 ALIENTO VISION
+http://191.97.60.193:10000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Religion",21.2 TELEJUAN
+http://191.97.60.193:10000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Religion",JN19-I (Lima)-INN
+http://191.97.60.193:10000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Religion",La voz de Maria
+http://190.108.87.149:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Religion",EWTN
+http://190.108.87.149:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Religion",RHEMA TV
+http://190.108.87.149:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Religion",Vatican Media America-Respaldo
+http://191.97.60.193:10000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="24/7",Acapulco Shore MTV
+https://i.mjh.nz/PlutoTV/60c25ec6da6d6600074233a8-alt.m3u8
+#EXTINF:-1 group-title="24/7",Barney
+https://i.mjh.nz/PlutoTV/5f29ada4bdaebd000708d49d-alt.m3u8
+#EXTINF:-1 group-title="24/7",Ben 10
+http://51.159.104.29:8080/ben10/index.m3u8
+#EXTINF:-1 group-title="24/7",Bob Esponja
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:-1 group-title="24/7",Bob Esponja Pantalones Cuadrados
+https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
+#EXTINF:-1 group-title="24/7",Caso Cerrado
+https://i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8
+#EXTINF:-1 group-title="24/7",Cinecartoon
+https://6362ca6f1fc28.streamlock.net/cinecartoon/cinecartoon/chunklist_w2027899740.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png" group-title="24/7",COPS
+https://i.mjh.nz/PlutoTV/6419ab7c9189ce000865a469-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="24/7",CSI: Miami
+https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8
+#EXTINF:-1 group-title="24/7",CSI: Miami en español
+https://i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8
+#EXTINF:-1 group-title="24/7",CSI: NY en español
+https://i.mjh.nz/PlutoTV/632b606e12a67b0007c9e371-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="24/7",Daria
+https://i.mjh.nz/PlutoTV/62d0895ebe7a970008785244-alt.m3u8
+#EXTINF:-1 group-title="24/7",Death Note
+https://i.mjh.nz/PlutoTV/626c2ed933a2890007e91422-alt.m3u8
+#EXTINF:-1 group-title="24/7",Doctor Who
+https://i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png" group-title="24/7",Dog el cazarrecompensas
+https://i.mjh.nz/PlutoTV/5f9992c685a2a80007fa414a-alt.m3u8
+#EXTINF:-1 group-title="24/7",Dora la Exploradora
+https://i.mjh.nz/PlutoTV/624466b26ab25e0007dd7cfb-alt.m3u8
+#EXTINF:-1 group-title="24/7",Durmiendo con mi Jefe
+https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7",El Chavo del 8
+https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
+#EXTINF:-1 group-title="24/7",El Encantador de Perros
+https://i.mjh.nz/PlutoTV/61099f2b40d0640007fc5aa2-alt.m3u8
+#EXTINF:-1 group-title="24/7",Emergencia 911
+https://i.mjh.nz/PlutoTV/60492a1e6361250007679665-alt.m3u8
+#EXTINF:-1 group-title="24/7",Empeños a lo bestia
+https://i.mjh.nz/PlutoTV/60218baa464ef900073168c1-alt.m3u8
+#EXTINF:-1 tvg-name="ES: 091 Alerta Policia HD 24H" tvg-logo="http://swedtv.net:8080/images/05a41fda160286acd49e5007bee70197.png" group-title="24/7",ES: 091 Alerta Policia HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34442
+#EXTINF:-1 tvg-name="ES: Amazonas Clandestino HD 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Amaszonas_Linea_Aerea_Logo.svg/2560px-Amaszonas_Linea_Aerea_Logo.svg.png" group-title="24/7",ES: Amazonas Clandestino HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34441
+#EXTINF:-1 tvg-name="ES: Barbapapa 24H" tvg-logo="http://swedtv.net:8080/images/eac546f72b5befb299304bd58b16b776.png" group-title="24/7",ES: Barbapapa 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34426
+#EXTINF:-1 tvg-name="ES: Ben Y Holly 24H" tvg-logo="s:1:/images/TZzJRUKbhWPhT2wFoG4aT4PPNNNakCABQH0RirAe5mMtQ44WsUHd7u3JlwS8U-bPxvixz5ulWxtPYF-09jcSaL0XOwWOOfxA-BxWuA-C8TIHqlq38JS-AO7jYeDY-PP2rdvMwjDMuJm6CGwZJHm38_E2ubVRVd-B60v6j3HdkhQPZRc_I9667Cz0IcYMhDRz.png" group-title="24/7",ES: Ben Y Holly 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34427
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Asgard HD (74-99) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34423
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades HD (115-145) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24/7",ES: Caballeros del Zodiaco Hades HD (115-145) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34420
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades SD (115-145) 24H" tvg-logo="s:1:/images/TZzJRUKbhWPhT2wFoG4aT4PPNNNakCABQH0RirAe5mObZ9QFaKvhjGjS4ip8R6c_NQg9QcGswtc7sBlw2Qwyuit42PesLVhi3Odn02GeevNAN6AedKf6wdBBQE1CjdHEAXFmyCLP4cSQhLAgH6DEacR_UswpqKr6sDev2jeIMldqf7T0Js_4NzuDIWVAxFNwMiKQ-UtIyOcWOUQqJ0LjkHisZkZ3hgSPhGv0VD6Psnc.png" group-title="24/7",ES: Caballeros del Zodiaco Hades SD (115-145) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34421
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24/7",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34422
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Santuario HD (41-73) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34424
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24/7",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34425
+#EXTINF:-1 tvg-name="ES: Callejeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24/7",ES: Callejeros 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34440
+#EXTINF:-1 tvg-name="ES: Callejeros Viajeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24/7",ES: Callejeros Viajeros 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34439
+#EXTINF:-1 tvg-name="ES: CSI Las Vegas HD 24H" tvg-logo="http://swedtv.net:8080/images/bbdd85bc2dbc44b746cd1cfa520d4303.png" group-title="24/7",ES: CSI Las Vegas HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34396
+#EXTINF:-1 tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJIkscP8r0AqgtWepnyNPE1Ve8uhhv54YyMtR_QqxlP9Hg.png" group-title="24/7",ES: Cuarto Milenio HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34438
+#EXTINF:-1 tvg-name="ES: El Bebé Jefazo (Vuelta al curro) 24H" tvg-logo="http://swedtv.net:8080/images/6dc62ac946efe3afa1694c9f113f806d.png" group-title="24/7",ES: El Bebé Jefazo (Vuelta al curro) 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34409
+#EXTINF:-1 tvg-name="ES: El Caso HD 24H" group-title="24/7",ES: El Caso HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34395
+#EXTINF:-1 tvg-name="ES: El Encantador de Perros HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHUBDmVSQ74-9tb7QpIaOstCLYyZzjYZ3U0ZymprBWJXhA1y1hPEcez5RTRMN8hCs_MVP_wmp3qIDgO7lnRj1WJI.png" group-title="24/7",ES: El Encantador de Perros HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34434
+#EXTINF:-1 tvg-name="ES: El Principe de Bel Air HD 24H" tvg-logo="https://e1.pngegg.com/pngimages/294/320/png-clipart-the-fresh-prince-of-bel-air-season-6.png" group-title="24/7",ES: El Principe de Bel Air HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34392
+#EXTINF:-1 tvg-name="ES: El Show de los Looney Tunes 24H" tvg-logo="https://e7.pngegg.com/pngimages/112/686/png-clipart-wile-e-coyote-and-the-road-runner-television-show-looney-tunes-foghorn-leghorn-road-runner-wile-e-coyote-and-the-road-runner-television-show-thumbnail.png" group-title="24/7",ES: El Show de los Looney Tunes 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34400
+#EXTINF:-1 tvg-name="ES: Empeños a lo Bestia HD 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJJzjP5q_2VU4IYOU5Pcz0o5EQ7pCccLA_masqsc0xzZIA.png" group-title="24/7",ES: Empeños a lo Bestia HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34437
+#EXTINF:-1 tvg-name="ES: En Tierra Hostil HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHfn58rQF91s9CInONCxChJqLycRpDG_F3_-GeGGZjp8jYZYPTJsAvYPrAby3Nn7Ga4BEM3ApwJpCcb6dGsuucfA.png" group-title="24/7",ES: En Tierra Hostil HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34435
+#EXTINF:-1 tvg-name="ES: Españoles En El Mundo HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHW6HWnkW-OPKh0zBPs6zap5vy1Hk6P1g-x6u69DGJpgmt5ft3y30SEkhLNfcl401Eqi1mDxZsm9qzPf-_GInY_0.png" group-title="24/7",ES: Españoles En El Mundo HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34436
+#EXTINF:-1 tvg-name="ES: Fabulas de Disney 24H" tvg-logo="http://swedtv.net:8080/images/b1a7ef736fc48702be21d927a3f036e3.png" group-title="24/7",ES: Fabulas de Disney 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34413
+#EXTINF:-1 tvg-name="ES: Forjado a Fuego HD 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJJzeaJ_VTrmPUTvyuvkfCjdtSvIdVl6wHZQXBezHVkhXA.png" group-title="24/7",ES: Forjado a Fuego HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34433
+#EXTINF:-1 tvg-name="ES: Futurama HD 24H" tvg-logo="http://swedtv.net:8080/images/ea6cf2e0a6c2a6490606b26b05078c97.png" group-title="24/7",ES: Futurama HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34416
+#EXTINF:-1 tvg-name="ES: Garfield y amigos 24H" tvg-logo="s:1:/images/xeViVwurpZb9a2_YJ00NTDZIPLVVyKXydblRfbbMM0qW70i38-BlyLXER61xaOYexkaFsFtHxRg13cxaLZs-Z3Czn-PFDliXtoK1Fw9KTUW4u6AC1r5FMBGW_mLkYLV1xfe00ixG3xCySaR4K6q4WQ0tvehxgMfs1u8mdoTnSMM.png" group-title="24/7",ES: Garfield y amigos 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34401
+#EXTINF:-1 tvg-name="ES: Heroes Mitologicos 24H" tvg-logo="http://swedtv.net:8080/images/fef7d636c7cfadb2cdff04ccf23c0e7a.png" group-title="24/7",ES: Heroes Mitologicos 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34405
+#EXTINF:-1 tvg-name="ES: Johnny Test 24H" tvg-logo="s:1:/images/PqbGwLRhDv55jVUMkWNhKl54Qow6i9D8gif5u6-fwk4Nw4i5-Q4FO67rxnKXRiboTJRn8OOvDw4AZSfcKQooRg.png" group-title="24/7",ES: Johnny Test 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34402
+#EXTINF:-1 tvg-name="ES: Kim Possible HD 24H" tvg-logo="s:1:/images/LFu9Ah5926yL4Nh7mL2RWMf7geC6cwCT2Azu43CX5MioicdgtPVmRkSUBPtxHZRHiiAHe4fMtpLTkHRiAh3xTW3M95RHfwYq0WF1vf8iAGvQgYOdrcVvxLsVz4E52Js3u_l62L6v0zjnFEV6BvlUBA.png" group-title="24/7",ES: Kim Possible HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34407
+#EXTINF:-1 tvg-name="ES: La Biblia Series HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHTKdkAcqx1PYUOYGpm9TJ1mHLiNbg-wr6_rM_r5PCauhmoqbSAaJLXQtUxzsllJwEcSI0IzXHOSZ_tNDYyIAoFg.png" group-title="24/7",ES: La Biblia Series HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34428
+#EXTINF:-1 tvg-name="ES: La Que se Avecina 24H" tvg-logo="https://phantom-marca.unidadeditorial.es/ded92e73fc6b93108e2b67ab618e3eec/resize/1200/f/jpg/assets/multimedia/imagenes/2022/03/07/16466874641534.png" group-title="24/7",ES: La Que se Avecina 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34394
+#EXTINF:-1 tvg-name="ES: Lilo y Stitch HD 24H" tvg-logo="http://swedtv.net:8080/images/2efefb3226a6b9c730a00e52aa302203.png" group-title="24/7",ES: Lilo y Stitch HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34406
+#EXTINF:-1 tvg-name="ES: Los cazadores de mitos HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHS0ndVLn4iHV9y9hDjrSmZjO9HLkQE9SopTU-WWCI_OEa9w63Z6mwaJ5NwxsakCyf0JHbNPFAIi8tR71680glDo.png" group-title="24/7",ES: Los cazadores de mitos HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34431
+#EXTINF:-1 tvg-name="ES: Los Simpsons HD 24H" tvg-logo="http://swedtv.net:8080/images/3a7f02bccddaf256c59a555bde12c702.png" group-title="24/7",ES: Los Simpsons HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34417
+#EXTINF:-1 tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJJCjeX41BQwXEMbOKHOVG555horO1HxwgMrsCNoD1EcfA.png" group-title="24/7",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34419
+#EXTINF:-1 tvg-name="ES: Los Simpsons Temp 1-5 24H" tvg-logo="s:1:/images/XzyXso--gJUA_8gC7lyLnf5Cl-U33hKm2cW5kwFctpn_kxFkM_sztfMw8oi982GmuSIm39whrOPqaGkCHJcXXbrdgZN3-vxH1nwpQtq0ZHCddOnRSTspumKDIgq0UoRemxT0rJRVBQ7L2RkU40N8jU4EoKIE5c-ikFWZ2EwzvCwICrFlIgEdK4FdyqeIaOT2.png" group-title="24/7",ES: Los Simpsons Temp 1-5 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34418
+#EXTINF:-1 tvg-name="ES: NCIS Los Angeles HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Los Angeles HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34399
+#EXTINF:-1 tvg-name="ES: NCIS Navy Investigación Criminal) HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Navy Investigación Criminal) HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34397
+#EXTINF:-1 tvg-name="ES: NCIS Nueva Orleans HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24/7",ES: NCIS Nueva Orleans HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34398
+#EXTINF:-1 tvg-name="ES: Padre de Familia 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJILIwCrwKVWis8lUDYjeUhaZ1yGNmzkCmTyAxQwO5ncAg.png" group-title="24/7",ES: Padre de Familia 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34414
+#EXTINF:-1 tvg-name="ES: Patrulla Canina 24H" tvg-logo="http://swedtv.net:8080/images/bfb5db45300e6ea6133ce849b5eaf5d0.png" group-title="24/7",ES: Patrulla Canina 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34412
+#EXTINF:-1 tvg-name="ES: Patrulla Fronteriza (España) HD 24H" group-title="24/7",ES: Patrulla Fronteriza (España) HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34443
+#EXTINF:-1 tvg-name="ES: Pippi Calzaslargas 24H" tvg-logo="https://w7.pngwing.com/pngs/643/891/png-transparent-character-pippi-longing-cartoon-fictional-character-art-thumbnail.png" group-title="24/7",ES: Pippi Calzaslargas 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34393
+#EXTINF:-1 tvg-name="ES: Policías en Acción HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHYWvkUFjN5Ic2IqxCUFgWK8fUeHm93kiPZwcPB1YRfyZHx489w2QE-b-f02LINj_FpN34eYNhMcwrQ1-w6ydV5w.png" group-title="24/7",ES: Policías en Acción HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34432
+#EXTINF:-1 tvg-name="ES: Quien vive ahi HD 24H" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHdA2kY2WcqatHYyJNveCAPFbMWFSkF2N1thVgloDTrvfLBHilprA3ZXvvKquOXneGD8vP-iIDtHmA6_IdlvLx5E.png" group-title="24/7",ES: Quien vive ahi HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34430
+#EXTINF:-1 tvg-name="ES: South Park HD 24H" group-title="24/7",ES: South Park HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34415
+#EXTINF:-1 tvg-name="ES: Super Wings 24H" tvg-logo="http://swedtv.net:8080/images/a6af703ee05d319a9f3253bd4f89f633.png" group-title="24/7",ES: Super Wings 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34410
+#EXTINF:-1 tvg-name="ES: Teen Titans Go! 24H" tvg-logo="s:1:/images/5zO0vYVc3tPsCqBdZc4BcsJWiwSjw7OOXWT8Tjy2G6DjkiuEjc6RtDnFREzhp1F9PM8Gn--yH9c87--2IRDNJWUhOkgAp9o8A2rwRhp146eHptXKs4bR-Hydsvg895GX.png" group-title="24/7",ES: Teen Titans Go! 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34404
+#EXTINF:-1 tvg-name="ES: Vaca y Pollito 24h" tvg-logo="s:1:/images/RmD6_WymGO3MrPTyhzbDHQd28DRnHsBLfndnKESdFkYbpCY8bMlOdZe3MA-_Joq-XDsmlFSB_r36z6uAEbmpsND0D9QF--plGskxaBqxSB4.png" group-title="24/7",ES: Vaca y Pollito 24h
+http://faucontv.live:8080/@messie12/b5HS41z/34411
+#EXTINF:-1 tvg-name="ES: Wabbit 24H" tvg-logo="http://swedtv.net:8080/images/82871df72d2277070ef5c5ca7c35e385.png" group-title="24/7",ES: Wabbit 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34408
+#EXTINF:-1 tvg-name="ES: Wild Frank HD 24H" tvg-logo="s:1:/images/kGZ-aqAxKwLnIq2tc695BcXh-UsaxkajMlaclVI4KJK6EIOi4kT-7R9Ks6kr32A0ZS95QA4X7GxM59XZga8hyg.png" group-title="24/7",ES: Wild Frank HD 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34429
+#EXTINF:-1 tvg-name="ES: Xena La Princesa Guerrera 24H" tvg-logo="https://w7.pngwing.com/pngs/170/403/png-transparent-xena-gabrielle-youtube-television-show-warrior-television-logo-fictional-character.png" group-title="24/7",ES: Xena La Princesa Guerrera 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34391
+#EXTINF:-1 tvg-name="ES: Zak Storm 24H" tvg-logo="s:1:/images/YodypuWdquS30J1TfB8ECMKONVa8z1aGgjfTSDxxic3S0KhaLTEV-jddJrJH17kk.png" group-title="24/7",ES: Zak Storm 24H
+http://faucontv.live:8080/@messie12/b5HS41z/34403
+#EXTINF:-1 group-title="24/7",Escape Perfecto
+https://i.mjh.nz/PlutoTV/605e479d5b8229000763e697-alt.m3u8
+#EXTINF:-1 group-title="24/7",Exitos TELEFE
+https://i.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png" group-title="24/7",FailArmy
+https://i.mjh.nz/PlutoTV/5ebaccf1734aaf0007142c86-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63974ebedcd9100008c2f59c/colorLogoPNG.png" group-title="24/7",Fashion TV
+https://i.mjh.nz/PlutoTV/63974ebedcd9100008c2f59c-alt.m3u8
+#EXTINF:-1 group-title="24/7",Hechizada
+https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" group-title="24/7",Hells Kitchen
+https://i.mjh.nz/PlutoTV/6095ad97351eb0000754c1e6-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png" group-title="24/7",Historias de Ultratumba
+https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
+#EXTINF:-1 group-title="24/7",iCarly
+https://i.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png" group-title="24/7",Ice Pilots
+https://i.mjh.nz/PlutoTV/62154548a2be360007cb02f0-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" group-title="24/7",Iron Chef
+https://i.mjh.nz/PlutoTV/615b9855c6b58b000724477f-alt.m3u8
+#EXTINF:-1 group-title="24/7",Just for Laughs
+https://i.mjh.nz/PlutoTV/60a286daf888610007669801-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="24/7",Kenan y Kel
+https://i.mjh.nz/PlutoTV/5fcea93ffcf94500071c4b2f-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png" group-title="24/7",La Familia del Barrio
+https://i.mjh.nz/PlutoTV/62d08af527ce19000731eaa0-alt.m3u8
+#EXTINF:-1 group-title="24/7",La Promesa
+https://linear-343.frequency.stream/343/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7",La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Los Picapiedra
+https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
+#EXTINF:-1 group-title="24/7",Los Tres Chiflados
+https://i.mjh.nz/PlutoTV/5f85f1dc1418bd0007e11eb9-alt.m3u8
+#EXTINF:-1 group-title="24/7",Los Ángeles de Charlie
+https://i.mjh.nz/PlutoTV/63eb93cea995710008989e3a-alt.m3u8
+#EXTINF:-1 group-title="24/7",MacGyver
+https://i.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1 group-title="24/7",Malcolm de en medio
+http://51.159.104.29:8080/malcom/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" group-title="24/7",MasterChef
+https://i.mjh.nz/PlutoTV/5e3ddbd27091820009f86dd9-alt.m3u8
+#EXTINF:-1 group-title="24/7",Minuto Para Ganar
+https://i.mjh.nz/PlutoTV/5e46e64dc73db400094b5f0b-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png" group-title="24/7",Misterios Medicos
+https://i.mjh.nz/PlutoTV/5f230e416b68ff00075b0139-alt.m3u8
+#EXTINF:-1 group-title="24/7",Misterios sin Resolver
+https://i.mjh.nz/PlutoTV/5f610042272f68000867685b-alt.m3u8
+#EXTINF:-1 group-title="24/7",Mr Bean 24H
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 group-title="24/7",Naruto
+https://i.mjh.nz/PlutoTV/5ee92e72fb286e0007285fec-alt.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png" group-title="24/7",NCIS
+https://i.mjh.nz/PlutoTV/63eb947c4e83e70008ab877b-alt.m3u8
+#EXTINF:-1 group-title="24/7",Novelas Turcas
+https://i.mjh.nz/PlutoTV/61b3e21d56fee300087e4cba-alt.m3u8
+#EXTINF:-1 group-title="24/7",One Piece
+https://i.mjh.nz/PlutoTV/5ff4b9ccf938f8000779eb99-alt.m3u8
+#EXTINF:-1 group-title="24/7",Pelis y Pop Corn
+https://i.mjh.nz/PlutoTV/60fb2f47c133270007327375-alt.m3u8
+#EXTINF:-1 group-title="24/7",Peppa Pig Channel
+http://51.159.104.29:8080/pepapig/index.m3u8
+#EXTINF:-1 group-title="24/7",Rugrats
+https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
+#EXTINF:-1 group-title="24/7",Series con Enie
+https://i.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8
+#EXTINF:-1 group-title="24/7",Sin Tetas No Hay Paraíso
+https://i.mjh.nz/PlutoTV/604bdf4e6d0abc0007ba77ad-alt.m3u8
+#EXTINF:-1 group-title="24/7",South Park
+https://i.mjh.nz/PlutoTV/628751bb7154a40007168843-alt.m3u8
+#EXTINF:-1 group-title="24/7",SuperCampeones
+http://51.159.104.29:8080/Supercampeones/index.m3u8
+#EXTINF:-1 group-title="24/7",Supercampeones
+https://i.mjh.nz/PlutoTV/64666345f3f5b1000882bfb4-alt.m3u8
+#EXTINF:-1 group-title="24/7",Telemundo Clasicas de Novela
+https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
+#EXTINF:-1 group-title="24/7",The Breaking Bad
+http://51.159.104.29:8080/BREAKINGBAD/index.m3u8
+#EXTINF:-1 group-title="24/7",The Walking Dead 24H
+http://51.159.104.29:8080/THEWALKINGDEAD/index.m3u8
+#EXTINF:-1 group-title="24/7",Tortugas Ninja
+https://i.mjh.nz/PlutoTV/61373f1a12dd9f00077dcd6f-alt.m3u8
+#EXTINF:-1 group-title="24/7",Viaje a las Estrellas
+https://i.mjh.nz/PlutoTV/6049295e7dcef800073c2499-alt.m3u8
+#EXTINF:-1 group-title="24/7",Walking Dead Español
+https://i.mjh.nz/PlutoTV/5e82bb378601b80007b4bd78-alt.m3u8
+#EXTINF:-1 group-title="Peru",America TV
+http://170.81.240.10:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Peru",ASIRI TV
+http://191.97.60.193:10000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="Peru",ATV
+http://191.97.60.193:10000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Peru",ATV +
+http://191.97.60.193:10000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="Peru",CAJAMARCA  TV
+http://191.97.60.193:10000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Peru",CANAL J 
+http://191.97.60.193:10000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="Peru",CREO MOVIE
+http://191.97.60.193:10000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Peru",CREO TV
+http://191.97.60.193:10000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Peru",EXITOSA
+http://191.97.60.193:10000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Peru",GAMARRA  TV
+http://191.97.60.193:10000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Peru",Global TV
+http://170.81.240.10:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Peru",KARIBENA 
+http://191.97.60.193:10000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Peru",LATINA TELEVISION
+http://170.81.240.10:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Peru",NATIVA TV
+http://191.97.60.193:10000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Peru",ODTV
+http://191.97.60.193:10000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Peru",ONDA DIGITAL
+http://191.97.60.193:10000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Peru",PANAMERICANA
+http://191.97.60.193:10000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Peru",PERU CHANNEL
+http://191.97.60.193:10000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Peru",PIURA  TV
+http://191.97.60.193:10000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Peru",SOL TV
+http://191.97.60.193:10000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Peru",SURAM
+http://191.97.60.193:10000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Peru",TELE LIMA (12.6)
+http://191.97.60.193:10000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Peru",TELESUR
+http://191.97.60.193:10000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Peru",TOP LATINO
+http://191.97.60.193:10000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Peru",TV PERU
+http://170.81.240.10:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Peru",UNIFEHD (Lima)-INN
+http://191.97.60.193:10000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Peru",USMP MISIC-INN
+http://191.97.60.193:10000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Peru",USMPHD-INN
+http://191.97.60.193:10000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Peru",VIVA HD
+http://191.97.60.193:10000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Peru",WILLAX
+http://191.97.60.193:10000/play/a02j/index.m3u8
+#EXTINF:-1 tvg-name="BOLIVIA: BOLIVIATV" group-title="Bolivia",BOLIVIA: BOLIVIATV
+http://faucontv.live:8080/@messie12/b5HS41z/12295
+#EXTINF:-1 tvg-name="BOLIVIA: Bolivision" group-title="Bolivia",BOLIVIA: Bolivision
+http://faucontv.live:8080/@messie12/b5HS41z/12299
+#EXTINF:-1 tvg-name="BOLIVIA: GIGAVISION" group-title="Bolivia",BOLIVIA: GIGAVISION
+http://faucontv.live:8080/@messie12/b5HS41z/12296
+#EXTINF:-1 tvg-name="BOLIVIA: RTP" group-title="Bolivia",BOLIVIA: RTP
+http://faucontv.live:8080/@messie12/b5HS41z/12298
+#EXTINF:-1 tvg-name="CHILE: 13 CABLE" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhIfaoC82g1hoFlwCmWalqA6BtSt7PXOPLH_uIlo9PsqToP8yy8dgRUN30kMTJCiSJYgjVgJQYJHpnpLfjbucN0gxnjU6jFVyr3ztjt7opeqQbqsZj2NShcXkAibjSOQg0N3f_gN82JagiQJsbDseGc.png" group-title="Chile",CHILE: 13 CABLE
+http://faucontv.live:8080/@messie12/b5HS41z/12235
+#EXTINF:-1 tvg-name="CHILE: CANAL13" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHTXBYDeeh3e_wDVzpRdHVFvwKhgpFIUA50AfyCtLs9_aHqXRbgnpOL-F7t44WvV44pJnMXEJNzc_RHjoWGIAhJ0Gkuqm_f5IrI2eZ98zlxqYU6xvCSmKIgfThzFnHT5sBsq-d-hpN3gDte2ACaKh8MA.png" group-title="Chile",CHILE: CANAL13
+http://faucontv.live:8080/@messie12/b5HS41z/12236
+#EXTINF:-1 tvg-name="CHILE: CDF PREMIUN" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHnsvU-fXcTxehR45-_Cgoz1dpPK3BedqS2CacXe_WXQJw5yVFqhmXHaqluzrpGGDj4ihBHqPY0_lK_OALCBjswhv6Wi7GPmD2_IFzkz0jKib-7uzWgpukeMlNVgNmNRxV.png" group-title="Chile",CHILE: CDF PREMIUN
+http://faucontv.live:8080/@messie12/b5HS41z/12240
+#EXTINF:-1 tvg-name="CHILE: CHILEVISION" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHQnWDaghJvO2oj8UUrhrbQ31MJ_XMlwMcpTBWI8iM4VR_9e-NGWmDUqRQ7Lclr8q0xfBOQ8IvlNvoLeolGHE_chePlcJ5S2VAqZ5uPf5d9sRtlLK0hd3jhw7ajEwfLJGM.png" group-title="Chile",CHILE: CHILEVISION
+http://faucontv.live:8080/@messie12/b5HS41z/12233
+#EXTINF:-1 tvg-name="CHILE: CNN" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHTvuU3umRw9PPcuGTc8sfGXCGntgPq7QUCjqxpY3usNgMAuuZGfkCLcaADw610gUsUZ5t7_WpsrudJM-fPfFD8AFv_HkxZJ8qgZAqli6CG1ce9pBjdwyoJJ6PBL46SQfu.png" group-title="Chile",CHILE: CNN
+http://faucontv.live:8080/@messie12/b5HS41z/12241
+#EXTINF:-1 tvg-name="CHILE: FOX SPORTS" group-title="Chile",CHILE: FOX SPORTS
+http://faucontv.live:8080/@messie12/b5HS41z/12243
+#EXTINF:-1 tvg-name="CHILE: LA RED" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHQM7OSL9w5wX4WmwVjlwvIcCkIvOxKNYHpyWAeKCGeq3BQ22IMfcWowhl6ZY5RTggPE88FvRIakDXYudyH53sL_buxD2e440S-FD2Qca9q59FbNpdmN3HA11QTZoDaN4c.png" group-title="Chile",CHILE: LA RED
+http://faucontv.live:8080/@messie12/b5HS41z/12237
+#EXTINF:-1 tvg-name="CHILE: MEGA" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHHotDAlwoNGes9PlNTxC9CAn4rlCLH_B78elzZkH9lce8rjY3iyb6Tm9pRFcYP-CEhIOKrfBPxh4D6AP3PwyOcEOizZR9T8CZ-jDHYPhq2KsDQGA6VHYG5FIDd0xDuKWv.png" group-title="Chile",CHILE: MEGA
+http://faucontv.live:8080/@messie12/b5HS41z/12238
+#EXTINF:-1 tvg-name="CHILE: TVN" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmH65m3ZgbNOX_2wYxBvXqqeyDM0ZK0RqYtgnAEHExC1IXN4RXgNaUCfiP1LWNgIFZkc9Iy3kNG0i_LZSnG_IW337MY4azz073R8_iZ9oilnmNgn23S7Y6MsWUybUoG0YLR.png" group-title="Chile",CHILE: TVN
+http://faucontv.live:8080/@messie12/b5HS41z/12234
+#EXTINF:-1 tvg-name="CHILE: VTV" group-title="Chile",CHILE: VTV
+http://faucontv.live:8080/@messie12/b5HS41z/12239
+#EXTINF:-1 tvg-name="|CO| CABLENOTICIAS" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHzkX3Bl9wQ6SLAs63rQ9-jsV1EicHkioWrGYSbMKOr_GPTMuInanGk-bAwUmelR5_XUO0-jw2_uBAjSedtCxKpAD15adyIwEBprgF9ov4Po9r4OIonZkxfRuw5QYDpuv8.png" group-title="Colombia",|CO| CABLENOTICIAS
+http://faucontv.live:8080/@messie12/b5HS41z/12228
+#EXTINF:-1 tvg-name="|CO| CARACOL" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHMQJgQXtVr4aFywGzv-KTxb2EbsVKLURzLK9l79uz4cEvXouyDqpqMLwzRBbS-FoQWinDWWvlI_mvDMB9X45UOkyxe7Z6UNGLjwedpeUh879Woxb42-FWSJZY_LdD0m6D.png" group-title="Colombia",|CO| CARACOL
+http://faucontv.live:8080/@messie12/b5HS41z/12218
+#EXTINF:-1 tvg-name="|CO| CARACOL HD2" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHX3gtM9w4UffEGIkc0Ei0os-ILKfR2P0al42USSIq7effdOE7SYNtbjkNLx4W3bwgramcUf2VAjUM_ZZjnKrIyVQzPSr1goshTYjdJbInIU-rmjK8JM5PhmsGoE9lhAby.png" group-title="Colombia",|CO| CARACOL HD2
+http://faucontv.live:8080/@messie12/b5HS41z/12219
+#EXTINF:-1 tvg-name="|CO| CARACOL INTERNACIONAL" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHhasExGFchM8lcYtjC3Y4px5FAQxYL3CLHWnO4jWWxNt0oYqD5P5AyLbpbk438J8dnSyt7bEylkajbXxXvdpS5iO3HGeyoy2YWrXg5-vJqr6CTEYTLi9ym02cN1u10qlw8xj2zVV5Bnf8g5-NHc_nlw.png" group-title="Colombia",|CO| CARACOL INTERNACIONAL
+http://faucontv.live:8080/@messie12/b5HS41z/12220
+#EXTINF:-1 tvg-name="|CO| CINEMA+" tvg-logo="http://live.phenixiptv.com:8080/images/3omHme5Dw8G1YQvWkM-qL1OA7wXpxRISC2onVyOKh5B1B-EPgxAYuw4wQLWzwLsWssmLBMo97T_Uduzl-YqalXKlOZQlUq_Bpr4CrKKfz4R28Isutf1-cAw42aa2B_NL-qg6t0e6_lx3RX9SrDSZ_ql9cXgKvFXeeumWzg3ZXi5YOz4VCMQ0367t7qTfPWAIkN7La6MlOWYhNQuN7dLRqw.jpeg" group-title="Colombia",|CO| CINEMA+
+http://faucontv.live:8080/@messie12/b5HS41z/12230
+#EXTINF:-1 tvg-name="|CO| MUNDO+" tvg-logo="http://live.phenixiptv.com:8080/images/dYl7org5naqyPuDezeISNfQPJEsll0OgV4yM6eACYuxkd5xxk-z2fJDIVlGxqnzRfMRTtggEGEUCMljz6PeCPA.png" group-title="Colombia",|CO| MUNDO+
+http://faucontv.live:8080/@messie12/b5HS41z/12229
+#EXTINF:-1 tvg-name="|CO| RCN" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmH9dE2B6iSfmZnCLg3ejFM3iRotsWfC6YT1O5x0_CWXsDtpNiYePJoWSUI_Gvvi5a2co2vzEgrKqNrsh3et5RTTDwzaXiVQs_sXWPrQyu6MGzEQTqv2zkeHPp4ypXMmC6r.png" group-title="Colombia",|CO| RCN
+http://faucontv.live:8080/@messie12/b5HS41z/12221
+#EXTINF:-1 tvg-name="|CO| RCN HD2" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHxpcsIQ6GBjEJxVcZSPfnEVDJNWX_3AMpemb0FTFJ5-xJveY0IEEfaCUcdE60tsZhEMHzYqVSwAYQPyFd5d-ECZwYBPdEsZxsVadJeQ8PsjlhIBA2k7j6tQbQV3pe_ASO.png" group-title="Colombia",|CO| RCN HD2
+http://faucontv.live:8080/@messie12/b5HS41z/12222
+#EXTINF:-1 tvg-name="|CO| RCN NOVELAS" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHZm7dIfZGLfSdKxPUl9EeEVQ3N8O7YVk1wpr_5txcL7EOGXsRVx4m9q_CFh7N4E0NrtOkYoyXk-cork7StUI32c9pGefD3Xyv5T-AfbBr75WxGkMo7jj_0Qon9JjBMcsJ.png" group-title="Colombia",|CO| RCN NOVELAS
+http://faucontv.live:8080/@messie12/b5HS41z/12223
+#EXTINF:-1 tvg-name="|CO| SENAL COLOMBIA" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHpA-Kozuz0S67-Sy0O7ENujbhUGDQuiwMGYBc1-_nb-y63RRAN3UYwLn5-CV-eKx4BbyxkIa5kojYMQUMV11e7N3I64uQgOyDpVrKgeb61hHjipUC3M8tlyAmrMRq5ncM.png" group-title="Colombia",|CO| SENAL COLOMBIA
+http://faucontv.live:8080/@messie12/b5HS41z/12224
+#EXTINF:-1 tvg-name="|CO| TELE MEDELLIN" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHv-P2DkCZcSFzHjDLbpWTcBiVq_kk1RbHMwe1bxxen91of69qJzcfnECZcghEzNGfFKAXTzLgKRA7BpNZ4YgAOBaZIM-k4sRHjMnOkcgg82cytKdvq13c-DxhYO5cnYKx.png" group-title="Colombia",|CO| TELE MEDELLIN
+http://faucontv.live:8080/@messie12/b5HS41z/12226
+#EXTINF:-1 tvg-name="|CO| TELEPACIFICO" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHP0sinMN-6Xt9ObfwK7Bfwy5V5dAlQwb1yg3nOGqQrZYuR5II6h3uL2ZyesLRpEAqfGoWbLFI56ENfYmjsV-f7p4EmGdcjZ5REdhc9yGKOC-5yUL2Vj7APjEvJYNKyEW7.png" group-title="Colombia",|CO| TELEPACIFICO
+http://faucontv.live:8080/@messie12/b5HS41z/12225
+#EXTINF:-1 tvg-name="|CO| TRECE" tvg-logo="s:1:/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKhIfaoC82g1hoFlwCmWalqAG7fDKxOkk8cp8QUUz4vUPHXj3BTzTkjN7gAIMqUrt6RKk-bMeQwPtCGFtZxClJBy0qCro97gglQFDTHtwP_tW6P4wxBbFTin6cml8ucvpkm72ndWMDm2GSFIW_eeRi-e.jpg" group-title="Colombia",|CO| TRECE
+http://faucontv.live:8080/@messie12/b5HS41z/12227
+#EXTINF:-1 tvg-name="|CO| WIN SPORTS" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHH4Uu5BbL9swDqWQId0oPgkeGyhSr72OcbZ6-VASAuemXaMJ5Mkf7MnWWUGNEjsEZl6HOWz6L_ft3H092b75MxJu38tE0LOzGrtxBIge1mPnQPKioIzywfoFP36TDVo-K.png" group-title="Colombia",|CO| WIN SPORTS
+http://faucontv.live:8080/@messie12/b5HS41z/12231
+#EXTINF:-1 tvg-name="|CO| WinSports Plus" tvg-logo="http://live.phenixiptv.com:8080/images/dYl7org5naqyPuDezeISNXGDK8dVunTi0pnic5XxoIw7PF-Cr9_PND6SkM4HB11MuWUgBkFT2Q2Kw5E_gRXtvg.png" group-title="Colombia",|CO| WinSports Plus
+http://faucontv.live:8080/@messie12/b5HS41z/12232
+#EXTINF:-1 tvg-name="|LT| UNIVISION" tvg-logo="https://asiagrandiptv.us/logo/univision.png" group-title="Colombia",|LT| UNIVISION
+http://faucontv.live:8080/@messie12/b5HS41z/12096
+#EXTINF:-1 tvg-name="ECUADOR: ECUADOR TV" tvg-logo="http://live.phenixiptv.com:8080/images/Qt3WWC1sM_kza8ku1gg7nhWemu4EwDVf0igfxJ2coOCwMXuZfacRU2Qjq0tHkWmHgttADVRnqLVY5Esp-CKQas3RrOzRPGOLylHn2x_n1hdfh269paolQQo_oQ75Ob90GClMONUD6LwSwV4M9TcKcePWeWsCdmCa95VfmBOF4J-A2uuAxXhEAO8CQhJozmDF.png" group-title="Ecuador",ECUADOR: ECUADOR TV
+http://faucontv.live:8080/@messie12/b5HS41z/12288
+#EXTINF:-1 tvg-name="ECUADOR: ECUAVISA" group-title="Ecuador",ECUADOR: ECUAVISA
+http://faucontv.live:8080/@messie12/b5HS41z/12289
+#EXTINF:-1 tvg-name="Ecuador: Gol Tv" group-title="Ecuador",Ecuador: Gol Tv
+http://faucontv.live:8080/@messie12/b5HS41z/12293
+#EXTINF:-1 tvg-name="ECUADOR: OROMAR" group-title="Ecuador",ECUADOR: OROMAR
+http://faucontv.live:8080/@messie12/b5HS41z/12294
+#EXTINF:-1 tvg-name="ECUADOR: RTS" group-title="Ecuador",ECUADOR: RTS
+http://faucontv.live:8080/@messie12/b5HS41z/12290
+#EXTINF:-1 tvg-name="ECUADOR: TELE AMAZONAS" group-title="Ecuador",ECUADOR: TELE AMAZONAS
+http://faucontv.live:8080/@messie12/b5HS41z/12292
+#EXTINF:-1 tvg-name="VE: Vive" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/28bef6a6149a38fd4ad042be1cd9664f.jpg" group-title="Venezuela",VE: Vive
+http://faucontv.live:8080/@messie12/b5HS41z/35058
+#EXTINF:-1 tvg-name="VE: Venevision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/75103f875b0bb1e4ec53efe593984924.jfif" group-title="Venezuela",VE: Venevision
+http://faucontv.live:8080/@messie12/b5HS41z/35057
+#EXTINF:-1 tvg-name="VE: Universal TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/da7b02eee957324ed798925c20eb522b.png" group-title="Venezuela",VE: Universal TV
+http://faucontv.live:8080/@messie12/b5HS41z/35056
+#EXTINF:-1 tvg-name="VE: TVes" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/8d9c847f17a052650913c5731bbfef5e.png" group-title="Venezuela",VE: TVes
+http://faucontv.live:8080/@messie12/b5HS41z/35055
+#EXTINF:-1 tvg-name="VE: TV Venezuela" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/37824075d21be0c007f508c5157483de.png" group-title="Venezuela",VE: TV Venezuela
+http://faucontv.live:8080/@messie12/b5HS41z/35054
+#EXTINF:-1 tvg-name="VE: TV Familia" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/d88385fffab9259bfd3222d738b8e03d.jpg" group-title="Venezuela",VE: TV Familia
+http://faucontv.live:8080/@messie12/b5HS41z/35053
+#EXTINF:-1 tvg-name="VE: TLT" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/dbb3f5f269605a07946646f334594417.png" group-title="Venezuela",VE: TLT
+http://faucontv.live:8080/@messie12/b5HS41z/35051
+#EXTINF:-1 tvg-name="VE: Televen" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/7a86c30d57e352ca75e0df4f2cb30a98.jpg" group-title="Venezuela",VE: Televen
+http://faucontv.live:8080/@messie12/b5HS41z/35050
+#EXTINF:-1 tvg-name="VE: Telesur English" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7230d518ae2ef3dcfeb65103c7512dd1.jpg" group-title="Venezuela",VE: Telesur English
+http://faucontv.live:8080/@messie12/b5HS41z/35049
+#EXTINF:-1 tvg-name="VE: Telesur" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/4695318e24c83469284fbab99c9ee6d6.jpg" group-title="Venezuela",VE: Telesur
+http://faucontv.live:8080/@messie12/b5HS41z/35048
+#EXTINF:-1 tvg-name="VE: Promar TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/58e523df93ca7f4a17498f3874275749.png" group-title="Venezuela",VE: Promar TV
+http://faucontv.live:8080/@messie12/b5HS41z/35047
+#EXTINF:-1 tvg-name="VE: Globovision" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c0cde5fad864fde7d7a6c620ba5d1750.jpg" group-title="Venezuela",VE: Globovision
+http://faucontv.live:8080/@messie12/b5HS41z/35045
+#EXTINF:-1 tvg-name="VE: Conciencia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/b4de86db3054f88a0b8c33f0bfce2292.jpg" group-title="Venezuela",VE: Conciencia TV
+http://faucontv.live:8080/@messie12/b5HS41z/35044
+#EXTINF:-1 tvg-name="VE: Canal Nubeh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/5245d56d4fae40a624c242f603b9c698.jfif" group-title="Venezuela",VE: Canal Nubeh TV
+http://faucontv.live:8080/@messie12/b5HS41z/35043
+#EXTINF:-1 tvg-name="VE: Canal I" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/350091c2c0ba8269e9b959e58298845e.jpg" group-title="Venezuela",VE: Canal I
+http://faucontv.live:8080/@messie12/b5HS41z/35042
+#EXTINF:-1 tvg-name="VE: Canal 11" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/d3038ec6314200e85d9cf1ffcb7eadf0.jpeg" group-title="Venezuela",VE: Canal 11
+http://faucontv.live:8080/@messie12/b5HS41z/35041
+#EXTINF:-1 tvg-name="VE: Agrotendencia TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/d685e97bd871191a3bdbd93d86c8888d.png" group-title="Venezuela",VE: Agrotendencia TV
+http://faucontv.live:8080/@messie12/b5HS41z/35040
+#EXTINF:-1 tvg-name="ES: #0 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Yaf_0AVrSx4Te4QlXVR78oERUoJ9SKg6NR3Ljo4PyMA.png" group-title="España",ES: #0 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21509
+#EXTINF:-1 tvg-name="ES: #0 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMccy_I8sxLdiypCUrH4p5d2Okb2ZIJFsCuEOE-VuMsA.png" group-title="España",ES: #0 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21510
+#EXTINF:-1 tvg-name="ES: #0 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Yaf_0AVrSx4Te4QlXVR78oERUoJ9SKg6NR3Ljo4PyMA.png" group-title="España",ES: #0 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21511
+#EXTINF:-1 tvg-name="ES: #VAMOS FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="España",ES: #VAMOS FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21512
+#EXTINF:-1 tvg-name="ES: #VAMOS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="España",ES: #VAMOS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21513
+#EXTINF:-1 tvg-name="ES: #VAMOS HEVC" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="España",ES: #VAMOS HEVC
+http://faucontv.live:8080/@messie12/b5HS41z/21514
+#EXTINF:-1 tvg-name="ES: #VAMOS SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyir0D4bl7Ip5uw1-ghkHsQ1c4K-IWrGJZAHSYJHDzRYQ.png" group-title="España",ES: #VAMOS SD
+http://faucontv.live:8080/@messie12/b5HS41z/21515
+#EXTINF:-1 tvg-name="ES: 24/7 Los Simpsons" group-title="España",ES: 24/7 Los Simpsons
+http://faucontv.live:8080/@messie12/b5HS41z/21518
+#EXTINF:-1 tvg-name="ES: 24H" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/24h-es.png?raw=true" group-title="España",ES: 24H
+http://faucontv.live:8080/@messie12/b5HS41z/21520
+#EXTINF:-1 tvg-name="ES: 25 TV" tvg-logo="http://graph.facebook.com/298335373532952/picture?width=320&height=320" group-title="España",ES: 25 TV
+http://faucontv.live:8080/@messie12/b5HS41z/21521
+#EXTINF:-1 tvg-name="ES: A PUNT" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPdmwwtUNVL5AnvjebARyLnatZhuss_Vb5Ey7IrxVeY5qi-UX5n690QRFVd6qiMfJ4.png" group-title="España",ES: A PUNT
+http://faucontv.live:8080/@messie12/b5HS41z/21523
+#EXTINF:-1 tvg-name="ES: A3 SERIES" tvg-logo="s:1:/images/wsxted1sa89XGntix0LoNPMFeMPbL2DY1g-8APX3wVVDqfS-Hk7hgPNHRb5UCiramROhm2x2oGZwrf0pCLFdoO2WCkLGTnA2zEKczGJashc.png" group-title="España",ES: A3 SERIES
+http://faucontv.live:8080/@messie12/b5HS41z/21524
+#EXTINF:-1 tvg-name="ES: ALGECIRAS TV" tvg-logo="http://graph.facebook.com/ondaalgecirastv/picture?width=320&height=320" group-title="España",ES: ALGECIRAS TV
+http://faucontv.live:8080/@messie12/b5HS41z/21525
+#EXTINF:-1 tvg-name="ES: ALQUILER 1 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="España",ES: ALQUILER 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21526
+#EXTINF:-1 tvg-name="ES: ALQUILER 2 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="España",ES: ALQUILER 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21527
+#EXTINF:-1 tvg-name="ES: ALQUILER 3 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="España",ES: ALQUILER 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21528
+#EXTINF:-1 tvg-name="ES: ALQUILER 4 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="España",ES: ALQUILER 4 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21529
+#EXTINF:-1 tvg-name="ES: ALQUILER 5 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawMSgYxvJcNI0_umj30tF431w.png" group-title="España",ES: ALQUILER 5 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21530
+#EXTINF:-1 tvg-name="ES: ALTERNATIVA TV" tvg-logo="https://lh3.googleusercontent.com/reK_4oh88GRPldelDZd4R09-qb45thX1p48RoRqLtRwYWfmjuDA5p8L59GC3WuVILOt6=s320" group-title="España",ES: ALTERNATIVA TV
+http://faucontv.live:8080/@messie12/b5HS41z/21531
+#EXTINF:-1 tvg-name="ES: AMC FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="España",ES: AMC FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21532
+#EXTINF:-1 tvg-name="ES: AMC HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="España",ES: AMC HD
+http://faucontv.live:8080/@messie12/b5HS41z/21533
+#EXTINF:-1 tvg-name="ES: AMC SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsT2ioIW55P-X8sXhaNTyRNh91IaMhdXrTO2Tg5pW1GXw.png" group-title="España",ES: AMC SD
+http://faucontv.live:8080/@messie12/b5HS41z/21534
+#EXTINF:-1 tvg-name="ES: ANTENA 3 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwskWoIcv54GjfumzQdGpt1CYzGVvVDT3eXdALTJxwwG0w.png" group-title="España",ES: ANTENA 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21535
+#EXTINF:-1 tvg-name="ES: ANTENA 3 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsRPfVyVbQIuM9ODYTe6nZCckr0fF1G95Xp9UdaQfZI5Q.png" group-title="España",ES: ANTENA 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21536
+#EXTINF:-1 tvg-name="ES: ANTENA 3 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwskWoIcv54GjfumzQdGpt1CYzGVvVDT3eXdALTJxwwG0w.png" group-title="España",ES: ANTENA 3 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21537
+#EXTINF:-1 tvg-name="ES: ARAGON TV" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXxTPa-a0bNrjLd7vlM0szordmNxBPRSoVvfLn15Mn05g.png" group-title="España",ES: ARAGON TV
+http://faucontv.live:8080/@messie12/b5HS41z/21538
+#EXTINF:-1 tvg-id="ATRESSD" tvg-name="ES: ATRESERIES FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="España",ES: ATRESERIES FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21539
+#EXTINF:-1 tvg-id="ATRESA" tvg-name="ES: ATRESERIES HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="España",ES: ATRESERIES HD
+http://faucontv.live:8080/@messie12/b5HS41z/21540
+#EXTINF:-1 tvg-id="ATRESSD" tvg-name="ES: ATRESERIES SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvQ_YXrV44TvI4exKYLQ7XH.png" group-title="España",ES: ATRESERIES SD
+http://faucontv.live:8080/@messie12/b5HS41z/21541
+#EXTINF:-1 tvg-name="ES: AXN FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij9PDIlcWX-EyvqYfo1luUb.png" group-title="España",ES: AXN FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21542
+#EXTINF:-1 tvg-name="ES: AXN HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij-G4mRYNXV8RUe8fz9k3rd84iV-hG-K2hJeXrnib2U1A.png" group-title="España",ES: AXN HD
+http://faucontv.live:8080/@messie12/b5HS41z/21543
+#EXTINF:-1 tvg-name="ES: AXN SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ij9PDIlcWX-EyvqYfo1luUb.png" group-title="España",ES: AXN SD
+http://faucontv.live:8080/@messie12/b5HS41z/21544
+#EXTINF:-1 tvg-name="ES: AXN WHITE FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMAgWgxzonr9QH9V3Gx7InUXGi4g_kwBUgmTetFnE4Dg.png" group-title="España",ES: AXN WHITE FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21545
+#EXTINF:-1 tvg-name="ES: AXN WHITE HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsUIiak5gOoZb3iaTV7BWstGsqTYPJYPKaQ6jrlvDYotQ.png" group-title="España",ES: AXN WHITE HD
+http://faucontv.live:8080/@messie12/b5HS41z/21546
+#EXTINF:-1 tvg-name="ES: AXN WHITE SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMAgWgxzonr9QH9V3Gx7InUXGi4g_kwBUgmTetFnE4Dg.png" group-title="España",ES: AXN WHITE SD
+http://faucontv.live:8080/@messie12/b5HS41z/21547
+#EXTINF:-1 tvg-name="ES: BABY TV SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c148kjrLTrcDBxJX0NSxdl_hlTVaEAJZOsp6I1VoTpsVEw.png" group-title="España",ES: BABY TV SD
+http://faucontv.live:8080/@messie12/b5HS41z/21548
+#EXTINF:-1 tvg-name="ES: BE MAD FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwswtzgArhty9Zt1eU67Fg4kcvmD7RlYy7WOcaL7ETdGkA.png" group-title="España",ES: BE MAD FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21549
+#EXTINF:-1 tvg-name="ES: BE MAD HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uyk32vDE6lDlEW8HgYAMwehUKxUc8-rNT3JtLV78gG4Vg.png" group-title="España",ES: BE MAD HD
+http://faucontv.live:8080/@messie12/b5HS41z/21550
+#EXTINF:-1 tvg-name="ES: BE MAD SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwswtzgArhty9Zt1eU67Fg4kcvmD7RlYy7WOcaL7ETdGkA.png" group-title="España",ES: BE MAD SD
+http://faucontv.live:8080/@messie12/b5HS41z/21551
+#EXTINF:-1 tvg-name="ES: BLAZE HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UwWGVFPKZ8S4u-ul8MrAdf1jxUKqX8dq0rEtKJbf-eO4w.png" group-title="España",ES: BLAZE HD
+http://faucontv.live:8080/@messie12/b5HS41z/21552
+#EXTINF:-1 tvg-name="ES: BOING FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUVWL-R6v7aOb5E8OrhnqhnyGXQTtDkTFgzAsyeuFaV1w.png" group-title="España",ES: BOING FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21553
+#EXTINF:-1 tvg-name="ES: BOING HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUVWL-R6v7aOb5E8OrhnqhnyGXQTtDkTFgzAsyeuFaV1w.png" group-title="España",ES: BOING HD
+http://faucontv.live:8080/@messie12/b5HS41z/21554
+#EXTINF:-1 tvg-name="ES: BOM CINE" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPhnkrbEWzcNaLMhvragSzj2kPaX-F5a6w4ubbr4JbEQeTW_ArDNyXYJuHY4Bq-9EI.png" group-title="España",ES: BOM CINE
+http://faucontv.live:8080/@messie12/b5HS41z/21555
+#EXTINF:-1 tvg-name="ES: CALLE 13 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="España",ES: CALLE 13 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21558
+#EXTINF:-1 tvg-name="ES: CALLE 13 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="España",ES: CALLE 13 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21559
+#EXTINF:-1 tvg-name="ES: CALLE 13 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt3C3603Yt5TS334VLRuaFSgJMV3mRjybomSHa2i71ZCA.png" group-title="España",ES: CALLE 13 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21560
+#EXTINF:-1 tvg-name="ES: CANAL 24 HORAS" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEiRNFY-dI1KiOeZmBHV2z4cDDpbSYjRvJRpZtxhVCpTJQ.png" group-title="España",ES: CANAL 24 HORAS
+http://faucontv.live:8080/@messie12/b5HS41z/21561
+#EXTINF:-1 tvg-name="ES: CANAL BARCA TV FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkfWrsaa6ukK0atjWQawgawM5l_5vPhhcWD70PaC89pHzA.png" group-title="España",ES: CANAL BARCA TV FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21563
+#EXTINF:-1 tvg-name="ES: CANAL COCINA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvZn7oTnDFO-Chmwl-brseSRXuv8xToo3GD-WRQdicVCg.png" group-title="España",ES: CANAL COCINA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21566
+#EXTINF:-1 tvg-name="ES: CANAL COCINA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvJpVwuUq_y854G-M-pgvNOoDmV6XhJmHWXl05XVGmssw.png" group-title="España",ES: CANAL COCINA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21567
+#EXTINF:-1 tvg-name="ES: CANAL DARK FHD" group-title="España",ES: CANAL DARK FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21568
+#EXTINF:-1 tvg-id="EXTMADU" tvg-name="ES: CANAL EXTREMADURA" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWw-YSQj3dUdxSSV9u4WwNbSao7Lm7F91Efc40wYgfjyQ.png" group-title="España",ES: CANAL EXTREMADURA
+http://faucontv.live:8080/@messie12/b5HS41z/21569
+#EXTINF:-1 tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="España",ES: CANAL HISTORIA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21570
+#EXTINF:-1 tvg-name="ES: CANAL HISTORIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="España",ES: CANAL HISTORIA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21571
+#EXTINF:-1 tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="España",ES: CANAL HISTORIA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21572
+#EXTINF:-1 tvg-name="ES: CANAL MALAGA" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPCsG1yfHrDpfRiUsH6qphCdd41hkuJFWWTRdl_s1-pr_Y5_fjKe7oMCvNilUIj8LY.jpg" group-title="España",ES: CANAL MALAGA
+http://faucontv.live:8080/@messie12/b5HS41z/21573
+#EXTINF:-1 tvg-name="ES: CANAL PANDA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c15tfR8nh7gCkixr5QQ7O0QVpUpTxRAdPIlTF3gcNUupSg.png" group-title="España",ES: CANAL PANDA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21575
+#EXTINF:-1 tvg-name="ES: CANAL PANDA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c15tfR8nh7gCkixr5QQ7O0QVpUpTxRAdPIlTF3gcNUupSg.png" group-title="España",ES: CANAL PANDA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21576
+#EXTINF:-1 tvg-name="ES: CANAL SAN ROQUE" tvg-logo="http://graph.facebook.com/296307903714631/picture?width=320&height=320" group-title="España",ES: CANAL SAN ROQUE
+http://faucontv.live:8080/@messie12/b5HS41z/21577
+#EXTINF:-1 tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVkow78rbALLGOT7RQDvG7Z8qAjH3aith6X3SoodZPc9Q.png" group-title="España",ES: CAZA Y PESCA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21579
+#EXTINF:-1 tvg-name="ES: CAZA Y PESCA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uw1zPNGbAQZ8rH8zXAtUp_SttgZEeu7EyG0lQqQS1WmRw.png" group-title="España",ES: CAZA Y PESCA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21580
+#EXTINF:-1 tvg-name="ES: CAZA Y PESCA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVkow78rbALLGOT7RQDvG7Z8qAjH3aith6X3SoodZPc9Q.png" group-title="España",ES: CAZA Y PESCA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21581
+#EXTINF:-1 tvg-id="CAZAVS" tvg-name="ES: CAZAVISION FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtu5euspZxmaTFNIHw4EmurSguHe_ROcLOAejA038AQDQ.png" group-title="España",ES: CAZAVISION FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21582
+#EXTINF:-1 tvg-id="CLAN" tvg-name="ES: CLAN HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxIz4z_ymryi73mozdmRM1o.png" group-title="España",ES: CLAN HD
+http://faucontv.live:8080/@messie12/b5HS41z/21584
+#EXTINF:-1 tvg-id="CLAN" tvg-name="ES: CLAN SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxIz4z_ymryi73mozdmRM1o.png" group-title="España",ES: CLAN SD
+http://faucontv.live:8080/@messie12/b5HS41z/21585
+#EXTINF:-1 tvg-name="ES: CLASSICA FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_GFM6an32rRC39ttq0QhHr.png" group-title="España",ES: CLASSICA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21586
+#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17GAw_vxOCiNv8_Kh_kO0VHP2ImVfJH5s8xx6uySOZoog.png" group-title="España",ES: COMEDY CENTRAL FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21587
+#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxUgKFx7TCezR34c09ozy5u0cJjQnOijexti_sRz8eSNw.png" group-title="España",ES: COMEDY CENTRAL HD
+http://faucontv.live:8080/@messie12/b5HS41z/21588
+#EXTINF:-1 tvg-name="ES: COMEDY CENTRAL SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxUgKFx7TCezR34c09ozy5u0cJjQnOijexti_sRz8eSNw.png" group-title="España",ES: COMEDY CENTRAL SD
+http://faucontv.live:8080/@messie12/b5HS41z/21589
+#EXTINF:-1 tvg-name="ES: COSMO FHD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="España",ES: COSMO FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21590
+#EXTINF:-1 tvg-name="ES: COSMO HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="España",ES: COSMO HD
+http://faucontv.live:8080/@messie12/b5HS41z/21591
+#EXTINF:-1 tvg-name="ES: COSMO SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C88nOpIsyhf9K9J2Bcjhfyf.png" group-title="España",ES: COSMO SD
+http://faucontv.live:8080/@messie12/b5HS41z/21592
+#EXTINF:-1 tvg-name="ES: CRIMEN & INVESTIGACION FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DX6rBMUBtb0ST5t8hCEOdty9Fq4O2IQogUXxxD6P0FEBg.png" group-title="España",ES: CRIMEN & INVESTIGACION FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21593
+#EXTINF:-1 tvg-name="ES: CUATRO FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1dPQWP6QV-eHqSAmO-IRECw3umVkGJuLI3Om-BYHTP_XQ.png" group-title="España",ES: CUATRO FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21594
+#EXTINF:-1 tvg-name="ES: CUATRO HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuct3Jf0hrwCCUtf1SAGvJI0yDQ6XT9kjOJUV1TUcaxgQ.png" group-title="España",ES: CUATRO HD
+http://faucontv.live:8080/@messie12/b5HS41z/21595
+#EXTINF:-1 tvg-name="ES: CUATRO SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1dPQWP6QV-eHqSAmO-IRECw3umVkGJuLI3Om-BYHTP_XQ.png" group-title="España",ES: CUATRO SD
+http://faucontv.live:8080/@messie12/b5HS41z/21596
+#EXTINF:-1 tvg-name="ES: DARK RED FHD" tvg-logo="s:1:/images/-Ju_udIuZvgBurAY19C5LUycmjbP_McYWqt26TDDTYymbDu65SSSrj30gKNKueGKRUu5L7qg3GP2F7MljrZtauQVHDdMC4ww44ai_Yb-ceI.png" group-title="España",ES: DARK RED FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21597
+#EXTINF:-1 tvg-name="ES: DECASA TV FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXlRhkhcVE7D6oWWDa4kQm7.png" group-title="España",ES: DECASA TV FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21598
+#EXTINF:-1 tvg-id="DECASHD" tvg-name="ES: DECASA TV HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzmPS8QX5Fkg86xpjpqBar6.png" group-title="España",ES: DECASA TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/21599
+#EXTINF:-1 tvg-name="ES: DECASA TV SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXlRhkhcVE7D6oWWDa4kQm7.png" group-title="España",ES: DECASA TV SD
+http://faucontv.live:8080/@messie12/b5HS41z/21600
+#EXTINF:-1 tvg-name="ES: DISCOVERY CHANNELS FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzeQALXgCd9ktbroCEJV4Qy0SOHmap6P2y9l0-jVklXcA.png" group-title="España",ES: DISCOVERY CHANNELS FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21601
+#EXTINF:-1 tvg-name="ES: DISCOVERY CHANNELS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzeQALXgCd9ktbroCEJV4Qy0SOHmap6P2y9l0-jVklXcA.png" group-title="España",ES: DISCOVERY CHANNELS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21602
+#EXTINF:-1 tvg-id="TDCLVHD" tvg-name="ES: DISCOVERY CHANNELS SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzeQALXgCd9ktbroCEJV4Qy0SOHmap6P2y9l0-jVklXcA.png" group-title="España",ES: DISCOVERY CHANNELS SD
+http://faucontv.live:8080/@messie12/b5HS41z/21603
+#EXTINF:-1 tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7PsYfGZdBLlp1dSgnt3FEBpiE4aoZ9HHAAKZeOH6cvNRa_lkPDCWXWDeaAuXasLDw.png" group-title="España",ES: DISNEY CHANNEL FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21604
+#EXTINF:-1 tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUJcml5AX8AhZdQQ08rfI3qW9ytcF9nflR0Cn1ym7E_-Q.png" group-title="España",ES: DISNEY CHANNEL HD
+http://faucontv.live:8080/@messie12/b5HS41z/21605
+#EXTINF:-1 tvg-name="ES: DISNEY CHANNEL SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7PsYfGZdBLlp1dSgnt3FEBpiE4aoZ9HHAAKZeOH6cvNRa_lkPDCWXWDeaAuXasLDw.png" group-title="España",ES: DISNEY CHANNEL SD
+http://faucontv.live:8080/@messie12/b5HS41z/21606
+#EXTINF:-1 tvg-name="ES: DISNEY JUNIOR SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DW3tXwehSsawGgLSSTLgHnihA902zVPhE38NbbNvLML7Q.png" group-title="España",ES: DISNEY JUNIOR SD
+http://faucontv.live:8080/@messie12/b5HS41z/21607
+#EXTINF:-1 tvg-id="DISNXDH" tvg-name="ES: DISNEY XD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c144SaNBbUDpWlXbbVReGZ5yIFP7p7Jm3FQeT-Q0sVdYCw.png" group-title="España",ES: DISNEY XD
+http://faucontv.live:8080/@messie12/b5HS41z/21608
+#EXTINF:-1 tvg-name="ES: DISTRITO TV" tvg-logo="http://graph.facebook.com/2004860103163343/picture?width=320&height=320" group-title="España",ES: DISTRITO TV
+http://faucontv.live:8080/@messie12/b5HS41z/21609
+#EXTINF:-1 tvg-name="ES: DIVINITY FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="España",ES: DIVINITY FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21611
+#EXTINF:-1 tvg-name="ES: DIVINITY HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="España",ES: DIVINITY HD
+http://faucontv.live:8080/@messie12/b5HS41z/21612
+#EXTINF:-1 tvg-name="ES: DIVINITY SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVcs_RdqVKWv5kw8acK1eorIyngg-MgX64GOjUOb14t_A.png" group-title="España",ES: DIVINITY SD
+http://faucontv.live:8080/@messie12/b5HS41z/21613
+#EXTINF:-1 tvg-name="ES: DKISS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt2vTE4rQe2TJP4EunBP1DavsaZr58xMXkkqwVqhXiApA.png" group-title="España",ES: DKISS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21614
+#EXTINF:-1 tvg-name="ES: DMAX FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuYmCspXuZSfjCf9-6W5E4eTjV2NG6_XEv7nKFW7o7PFg.png" group-title="España",ES: DMAX FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21615
+#EXTINF:-1 tvg-name="ES: ENERGY FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVzLKJYa4GjRPXsVyKiDDnyZIHZ7ltKxCsTK3Lni4L2VA.png" group-title="España",ES: ENERGY FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21617
+#EXTINF:-1 tvg-name="ES: ENERGY HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVzLKJYa4GjRPXsVyKiDDnyZIHZ7ltKxCsTK3Lni4L2VA.png" group-title="España",ES: ENERGY HD
+http://faucontv.live:8080/@messie12/b5HS41z/21618
+#EXTINF:-1 tvg-name="ES: ENERGY SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVzLKJYa4GjRPXsVyKiDDnyZIHZ7ltKxCsTK3Lni4L2VA.png" group-title="España",ES: ENERGY SD
+http://faucontv.live:8080/@messie12/b5HS41z/21619
+#EXTINF:-1 tvg-id="ESPNDHD" tvg-name="ES: ESPN DEPORTES HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IgN4GbiabPA2D34PMGl1E8r4FGxRDZBeWHHpRq79MKHVA.png" group-title="España",ES: ESPN DEPORTES HD
+http://faucontv.live:8080/@messie12/b5HS41z/21623
+#EXTINF:-1 tvg-name="ES: ETB 1" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMxxja-gcp8obT6xf-XJgoL981AVv9yPoLNb4wp3GmKmyB0yIZYdbxhgzNndi_06-I.png" group-title="España",ES: ETB 1
+http://faucontv.live:8080/@messie12/b5HS41z/21624
+#EXTINF:-1 tvg-name="ES: ETB 2" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMOx-MXbeG8dskzT8Xxk_Fc3FP_kcO_zn2xOzsrnXMuy33RVUGszdSt2f5Ed_SAjjU.png" group-title="España",ES: ETB 2
+http://faucontv.live:8080/@messie12/b5HS41z/21625
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVoY7jhiRIXFu5Iv_EJi2e6HcavZrbxQ6aLxYoS-8gwrg.png" group-title="España",ES: EUROSPORT 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21626
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsqD4MsCpPS7N41TJagt7EdwcAcmtrYvQdB7Qki77cnQg.png" group-title="España",ES: EUROSPORT 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21627
+#EXTINF:-1 tvg-name="ES: EUROSPORT 1 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVoY7jhiRIXFu5Iv_EJi2e6HcavZrbxQ6aLxYoS-8gwrg.png" group-title="España",ES: EUROSPORT 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21628
+#EXTINF:-1 tvg-name="ES: EUROSPORT 2 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwv6crYdqI-nQAIACK_IGhY52Kg1Z8_0wleRPOOdOx3uLA.png" group-title="España",ES: EUROSPORT 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21629
+#EXTINF:-1 tvg-name="ES: EUROSPORT 2 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uxpiv_IQqh_v_S1nClW2IDGFAtnmSxmoLaNZsqceD3OYg.png" group-title="España",ES: EUROSPORT 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21630
+#EXTINF:-1 tvg-name="ES: EUROSPORT 2 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwv6crYdqI-nQAIACK_IGhY52Kg1Z8_0wleRPOOdOx3uLA.png" group-title="España",ES: EUROSPORT 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21631
+#EXTINF:-1 tvg-name="ES: FDF HD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_jKYbQS7C2LLTkjXqiSioH.png" group-title="España",ES: FDF HD
+http://faucontv.live:8080/@messie12/b5HS41z/21633
+#EXTINF:-1 tvg-name="ES: FDF SD" tvg-logo="s:1:/images/y1P9oQWOYjjCozO6Rgs7Xpj10S7zhIL1YUXXFoMh2C_jKYbQS7C2LLTkjXqiSioH.png" group-title="España",ES: FDF SD
+http://faucontv.live:8080/@messie12/b5HS41z/21634
+#EXTINF:-1 tvg-name="ES: FOX FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="España",ES: FOX FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21636
+#EXTINF:-1 tvg-name="ES: FOX HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="España",ES: FOX HD
+http://faucontv.live:8080/@messie12/b5HS41z/21637
+#EXTINF:-1 tvg-name="ES: FOX LIFE" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxzJM9IjVXQNUlg0qvIlLf3JkpI_gHQWHOvCG8Tk6tilA.png" group-title="España",ES: FOX LIFE
+http://faucontv.live:8080/@messie12/b5HS41z/21638
+#EXTINF:-1 tvg-name="ES: FOX SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWQ_GKIa-vD7FLFAvyBDv87A7CZWomGm-T52au9qS3efQ.png" group-title="España",ES: FOX SD
+http://faucontv.live:8080/@messie12/b5HS41z/21639
+#EXTINF:-1 tvg-name="ES: GOL TV FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4nhgKX6KwPRivVrNBT3H-EG0ozZu9TBcC9wRwKcP5Uf9tSRQrc57F995Tdd_83gwA.png" group-title="España",ES: GOL TV FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21641
+#EXTINF:-1 tvg-name="ES: GOL TV HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14r9nKhWKG5so9aAuYhwnf1qYEot0TSH-UzViRJgwf7gA.png" group-title="España",ES: GOL TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/21642
+#EXTINF:-1 tvg-name="ES: GOL TV SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4nhgKX6KwPRivVrNBT3H-EG0ozZu9TBcC9wRwKcP5Uf9tSRQrc57F995Tdd_83gwA.png" group-title="España",ES: GOL TV SD
+http://faucontv.live:8080/@messie12/b5HS41z/21643
+#EXTINF:-1 tvg-name="ES: HOLLYWOOD FHD" tvg-logo="s:1:/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2yLpiJ7S04YJz0v6Oqw0ck3uXNrKITbUHuxsowUDmYxVmJjfJCCsDNSOgeqFMWCi0w.png" group-title="España",ES: HOLLYWOOD FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21645
+#EXTINF:-1 tvg-name="ES: HOLLYWOOD HD" tvg-logo="s:1:/images/eZ1cwmJFUj3u5Y2qCEROZXO3Eedov-3z5Jnvwcq9f2yLpiJ7S04YJz0v6Oqw0ck3uXNrKITbUHuxsowUDmYxVmJjfJCCsDNSOgeqFMWCi0w.png" group-title="España",ES: HOLLYWOOD HD
+http://faucontv.live:8080/@messie12/b5HS41z/21646
+#EXTINF:-1 tvg-name="ES: HOLLYWOOD SD" tvg-logo="s:1:/images/r2gVeXI-_L9jZJUAQOKIJch0IKkj6Xs_uIMYlTvlVX1GC3pjHBdkybYj2Qk4vzkEILzNcNJr9azPYaH_20SfWH6SfkMgXIli6O-QplfD0ZI.png" group-title="España",ES: HOLLYWOOD SD
+http://faucontv.live:8080/@messie12/b5HS41z/21647
+#EXTINF:-1 tvg-id="IBRALIA" tvg-name="ES: IBERALIA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzws-WksM_sCnHM-XcvDByO4e.png" group-title="España",ES: IBERALIA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21648
+#EXTINF:-1 tvg-name="ES: LA 1 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVDdvRztFLShE6q-XuxDCyASmroTz3jaWE7iuTzu4bnxA.png" group-title="España",ES: LA 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21650
+#EXTINF:-1 tvg-name="ES: LA 1 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt_YSX3THZXb2b2RmKphDI7AQACnCYNaWA8-7jyHgFKrQ.png" group-title="España",ES: LA 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21651
+#EXTINF:-1 tvg-name="ES: LA 1 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVDdvRztFLShE6q-XuxDCyASmroTz3jaWE7iuTzu4bnxA.png" group-title="España",ES: LA 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21652
+#EXTINF:-1 tvg-name="ES: LA 2 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVYXBANQoGY4LmuxPCWlGRODpzwpjU9jCIfZzHoW5ozgg.png" group-title="España",ES: LA 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21653
+#EXTINF:-1 tvg-name="ES: LA 2 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DVYXBANQoGY4LmuxPCWlGRODpzwpjU9jCIfZzHoW5ozgg.png" group-title="España",ES: LA 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21654
+#EXTINF:-1 tvg-name="ES: LA 7" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/la7-es.png?raw=true" group-title="España",ES: LA 7
+http://faucontv.live:8080/@messie12/b5HS41z/21655
+#EXTINF:-1 tvg-name="ES: LA SEXTA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1e9qOp7p3xJiQAbX4U4BfYvX47uXR5hdmQf27r6f_8B_A.png" group-title="España",ES: LA SEXTA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21656
+#EXTINF:-1 tvg-name="ES: LA SEXTA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuDm3XNSf5qRRNpzFh7dEx19I9vemr0Kz4qMgLiytaedw.png" group-title="España",ES: LA SEXTA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21657
+#EXTINF:-1 tvg-name="ES: LA SEXTA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1e9qOp7p3xJiQAbX4U4BfYvX47uXR5hdmQf27r6f_8B_A.png" group-title="España",ES: LA SEXTA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21658
+#EXTINF:-1 tvg-name="ES: LALIGA TV BAR" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaErcuxMd6Y33cA1FAujTJyzPm3AgQ7Gs5uKE0ESYJravWA.png" group-title="España",ES: LALIGA TV BAR
+http://faucontv.live:8080/@messie12/b5HS41z/21660
+#EXTINF:-1 tvg-name="ES: LEVANTE TV" tvg-logo="http://graph.facebook.com/levantetv/picture?width=320&height=320" group-title="España",ES: LEVANTE TV
+http://faucontv.live:8080/@messie12/b5HS41z/21662
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 1 HD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEoQq2Glg3UyVfak50jtxVO3cgYswToCXm9w7yR5mac31Q.png" group-title="España",ES: LIGA DE CAMPEONES 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21666
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 1 SD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEoQq2Glg3UyVfak50jtxVO3cgYswToCXm9w7yR5mac31Q.png" group-title="España",ES: LIGA DE CAMPEONES 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21667
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpZA7RDUKH1Kxq9SH3uaOKehbNzBAQQIhp7HE3s1uoDOA.png" group-title="España",ES: LIGA DE CAMPEONES 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21668
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpZA7RDUKH1Kxq9SH3uaOKehbNzBAQQIhp7HE3s1uoDOA.png" group-title="España",ES: LIGA DE CAMPEONES 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21670
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpZA7RDUKH1Kxq9SH3uaOKehbNzBAQQIhp7HE3s1uoDOA.png" group-title="España",ES: LIGA DE CAMPEONES 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21671
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpuCdm6axjmc9bOPJNxKIpPupuXy7shhRwdZIYGCQ4IUQ.png" group-title="España",ES: LIGA DE CAMPEONES 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21673
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 3 HD Backup 1" group-title="España",ES: LIGA DE CAMPEONES 3 HD Backup 1
+http://faucontv.live:8080/@messie12/b5HS41z/21674
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEom9Iot4LcU0dT6nH5jlA3wZ8wbtnr6ont_-xK0EemTbQ.png" group-title="España",ES: LIGA DE CAMPEONES 4 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21675
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 5 HD" group-title="España",ES: LIGA DE CAMPEONES 5 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21677
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="s:1:/images/57uz_8vyB2LW0V6ievYOhMLK9DmUPNJT-ckQHOUXaEpRx41TywFzzQsBLMuApS_H7K_7Yddb43geqpYjnFbHMg.png" group-title="España",ES: LIGA DE CAMPEONES 6 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21679
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="s:1:/images/8SleNxM_nABVffRT06zzr2o09swqLKHsmSrc7GH4wRVWxY3YyOQO_CDxCak1ZL4C.png" group-title="España",ES: LIGA DE CAMPEONES FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21685
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES FHD Backup 2" group-title="España",ES: LIGA DE CAMPEONES FHD Backup 2
+http://faucontv.live:8080/@messie12/b5HS41z/21687
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES FHD Backup 3" group-title="España",ES: LIGA DE CAMPEONES FHD Backup 3
+http://faucontv.live:8080/@messie12/b5HS41z/21688
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="s:1:/images/8SleNxM_nABVffRT06zzr2o09swqLKHsmSrc7GH4wRVWxY3YyOQO_CDxCak1ZL4C.png" group-title="España",ES: LIGA DE CAMPEONES HD
+http://faucontv.live:8080/@messie12/b5HS41z/21689
+#EXTINF:-1 tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="s:1:/images/8SleNxM_nABVffRT06zzr2o09swqLKHsmSrc7GH4wRVWxY3YyOQO_CDxCak1ZL4C.png" group-title="España",ES: LIGA DE CAMPEONES SD
+http://faucontv.live:8080/@messie12/b5HS41z/21691
+#EXTINF:-1 tvg-name="ES: LOGOS TV" tvg-logo="http://graph.facebook.com/logostvespana/picture?width=320&height=320" group-title="España",ES: LOGOS TV
+http://faucontv.live:8080/@messie12/b5HS41z/21692
+#EXTINF:-1 tvg-name="ES: MEGA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="España",ES: MEGA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21693
+#EXTINF:-1 tvg-name="ES: MEGA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="España",ES: MEGA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21694
+#EXTINF:-1 tvg-name="ES: MEGA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uwc6aqLjGOZkva4NqKtf3S2lIGtG5mGSYZjg-h7RZEDOw.png" group-title="España",ES: MEGA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21695
+#EXTINF:-1 tvg-name="ES: MELILLA TV" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/television-melilla-es.png?raw=true" group-title="España",ES: MELILLA TV
+http://faucontv.live:8080/@messie12/b5HS41z/21696
+#EXTINF:-1 tvg-name="ES: MEZZO LIVE FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEZZO" group-title="España",ES: MEZZO LIVE FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21697
+#EXTINF:-1 tvg-id="MACCI" tvg-name="ES: MOVISTAR ACCION FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUbygNR_ssYGduGj2c0br6-CRCHdIDNp1vE2u9ekRP0vA.png" group-title="España",ES: MOVISTAR ACCION FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21698
+#EXTINF:-1 tvg-id="MACCIHD" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwt655Q7xILDh2vBjfsEMD3C01lvVSO0dq4sBGaZao306w.png" group-title="España",ES: MOVISTAR ACCION HD
+http://faucontv.live:8080/@messie12/b5HS41z/21699
+#EXTINF:-1 tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMTGH_EJ0ux9UhwQZ4EcgW8PHTtLzlEX18mpe3NjhcmQ.png" group-title="España",ES: MOVISTAR COMEDIA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21703
+#EXTINF:-1 tvg-name="ES: MOVISTAR DEPORTES HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWnVztuROohvTEPRsCLNAwgLUiUzqpUPnsfUEdWhxnxCA.png" group-title="España",ES: MOVISTAR DEPORTES HD
+http://faucontv.live:8080/@messie12/b5HS41z/21723
+#EXTINF:-1 tvg-id="MDRAM" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWga-fQFMhfB3LMk6fH9D0NhJwTHGtLhl1YAHbg5iY1TA.png" group-title="España",ES: MOVISTAR DRAMA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21726
+#EXTINF:-1 tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUMBsmi9s2s7b4LECxNMFeWqQkwLtX_SvOLVPcNutGFIA.png" group-title="España",ES: MOVISTAR DRAMA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21727
+#EXTINF:-1 tvg-name="ES: MOVISTAR DRAMA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWga-fQFMhfB3LMk6fH9D0NhJwTHGtLhl1YAHbg5iY1TA.png" group-title="España",ES: MOVISTAR DRAMA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21728
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS 2 FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="España",ES: MOVISTAR ESTRENOS 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21729
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS 2 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="España",ES: MOVISTAR ESTRENOS 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21730
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS 2 SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-estrenos-2-es.png?raw=true" group-title="España",ES: MOVISTAR ESTRENOS 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21731
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvYtoQ5Ado9G4-PcWhnNavEE-nIGsLKyX89hNrm2xn_2w.png" group-title="España",ES: MOVISTAR ESTRENOS FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21732
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxXIIUN2Nk1hm8L4r9hHIho1Amp_9teeM4_EFgXhQ8xeA.png" group-title="España",ES: MOVISTAR ESTRENOS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21733
+#EXTINF:-1 tvg-name="ES: MOVISTAR ESTRENOS SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwvYtoQ5Ado9G4-PcWhnNavEE-nIGsLKyX89hNrm2xn_2w.png" group-title="España",ES: MOVISTAR ESTRENOS SD
+http://faucontv.live:8080/@messie12/b5HS41z/21734
+#EXTINF:-1 tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsH54NMfQVos-SO6uGSeoC8EXpNGyNI9pFBv7RlL1B4iA.png" group-title="España",ES: MOVISTAR FORMULA 1 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21735
+#EXTINF:-1 tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzQRi6zuipn53vNCxclwccjwoHoMI9S5WSCjQrdiDdCfA.png" group-title="España",ES: MOVISTAR FORMULA 1 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21736
+#EXTINF:-1 tvg-name="ES: MOVISTAR FORMULA 1 SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsH54NMfQVos-SO6uGSeoC8EXpNGyNI9pFBv7RlL1B4iA.png" group-title="España",ES: MOVISTAR FORMULA 1 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21737
+#EXTINF:-1 tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsP3UBPcjHjW9DRVyhn2U5SUcwHQ_HQEGXXl3LXC_Vr1Q.png" group-title="España",ES: MOVISTAR GOLF FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21738
+#EXTINF:-1 tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtKbXjrn0jt_gVlLUzfLS5yW-jjovuiV7NmERq7zbOJvg.png" group-title="España",ES: MOVISTAR GOLF HD
+http://faucontv.live:8080/@messie12/b5HS41z/21739
+#EXTINF:-1 tvg-name="ES: MOVISTAR GOLF SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsP3UBPcjHjW9DRVyhn2U5SUcwHQ_HQEGXXl3LXC_Vr1Q.png" group-title="España",ES: MOVISTAR GOLF SD
+http://faucontv.live:8080/@messie12/b5HS41z/21740
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA 4K" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnCH4kffkX4hbWaq41kO7pjw.png" group-title="España",ES: MOVISTAR LALIGA 4K
+http://faucontv.live:8080/@messie12/b5HS41z/21741
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA FHD Backup 1" group-title="España",ES: MOVISTAR LALIGA FHD Backup 1
+http://faucontv.live:8080/@messie12/b5HS41z/21742
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA FHD Backup 2" group-title="España",ES: MOVISTAR LALIGA FHD Backup 2
+http://faucontv.live:8080/@messie12/b5HS41z/21743
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-laliga-es.png?raw=true" group-title="España",ES: MOVISTAR LALIGA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21744
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 2 FHD" group-title="España",ES: MOVISTAR LALIGA MULTI 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21749
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 2 HD" group-title="España",ES: MOVISTAR LALIGA MULTI 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21750
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 2 SD" group-title="España",ES: MOVISTAR LALIGA MULTI 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21751
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 3 FHD" group-title="España",ES: MOVISTAR LALIGA MULTI 3 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21752
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 3 HD" tvg-logo="http://myserveriptv.com:2082/images/771f7df15aab80de8f4930604cb7e6fb.png" group-title="España",ES: MOVISTAR LALIGA MULTI 3 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21753
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA MULTI 3 SD" group-title="España",ES: MOVISTAR LALIGA MULTI 3 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21754
+#EXTINF:-1 tvg-name="ES: MOVISTAR LALIGA SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-laliga-es.png?raw=true" group-title="España",ES: MOVISTAR LALIGA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21761
+#EXTINF:-1 tvg-name="ES: MOVISTAR OVISTAR DEPORTES 2 HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-deportes-2-es.png?raw=true" group-title="España",ES: MOVISTAR OVISTAR DEPORTES 2 HD
+http://faucontv.live:8080/@messie12/b5HS41z/21765
+#EXTINF:-1 tvg-name="ES: MOVISTAR SERIES 2 FHD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkdzh57F0VGbmZHYQJRtrxPwTRIoKzfKWvAUfftDxcbv4Q.png" group-title="España",ES: MOVISTAR SERIES 2 FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21775
+#EXTINF:-1 tvg-name="ES: MOVISTAR SERIES 2 SD" tvg-logo="s:1:/images/9kxW_8ME77y8yypzjYrFJKjBX6y1HzzeHLiubsKTnkdzh57F0VGbmZHYQJRtrxPwTRIoKzfKWvAUfftDxcbv4Q.png" group-title="España",ES: MOVISTAR SERIES 2 SD
+http://faucontv.live:8080/@messie12/b5HS41z/21777
+#EXTINF:-1 tvg-id="MSER" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsQtmhim-mCidsSq4YcoV-Twcwo61AZsj8YsJRyeyY3eg.png" group-title="España",ES: MOVISTAR SERIES FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21778
+#EXTINF:-1 tvg-id="MSERHD" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsYDX79VkEunBZnMursGF3WZPHdLzoFWRqKKinLCjwrdg.png" group-title="España",ES: MOVISTAR SERIES HD
+http://faucontv.live:8080/@messie12/b5HS41z/21779
+#EXTINF:-1 tvg-id="MSER" tvg-name="ES: MOVISTAR SERIES SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsQtmhim-mCidsSq4YcoV-Twcwo61AZsj8YsJRyeyY3eg.png" group-title="España",ES: MOVISTAR SERIES SD
+http://faucontv.live:8080/@messie12/b5HS41z/21780
+#EXTINF:-1 tvg-name="ES: MTV BASE" group-title="España",ES: MTV BASE
+http://faucontv.live:8080/@messie12/b5HS41z/21783
+#EXTINF:-1 tvg-name="ES: MTV CLASSIC" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qMJ36ACmEV7S8dZVd98olrjisf1jTTKEfR-Hye1UDoGJz4bastqgwUolZWcLKHdJWk.png" group-title="España",ES: MTV CLASSIC
+http://faucontv.live:8080/@messie12/b5HS41z/21784
+#EXTINF:-1 tvg-name="ES: MTV ESPA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUJhkqps9DjT7PMHDE2OZ8p_frLkisgM4gIgbRGVXC8Bg.png" group-title="España",ES: MTV ESPA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21786
+#EXTINF:-1 tvg-name="ES: MTV EUROPE HD" group-title="España",ES: MTV EUROPE HD
+http://faucontv.live:8080/@messie12/b5HS41z/21787
+#EXTINF:-1 tvg-name="ES: MTV HITS EUROPE" group-title="España",ES: MTV HITS EUROPE
+http://faucontv.live:8080/@messie12/b5HS41z/21788
+#EXTINF:-1 tvg-id="MTVHESP" tvg-name="ES: MTV HITS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DUM38aUQ5mJYJvBsR-Zu1IiVtj-59hz5I4ho6TgsNh47A.png" group-title="España",ES: MTV HITS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21789
+#EXTINF:-1 tvg-id="MTVLVHS" tvg-name="ES: MTV LIVE FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1c0ZMwL5qgV50EnAHOWNiUZdKIKcWqoSGMNvU_OwR27Qw.png" group-title="España",ES: MTV LIVE FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21790
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEjBLd80r0KzW_-4WSxW0x4H1Bzggg7KtJsN2kacevXjgQ.png" group-title="España",ES: NATIONAL GEOGRAPHIC FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21793
+#EXTINF:-1 tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEjBLd80r0KzW_-4WSxW0x4H1Bzggg7KtJsN2kacevXjgQ.png" group-title="España",ES: NATIONAL GEOGRAPHIC HD
+http://faucontv.live:8080/@messie12/b5HS41z/21794
+#EXTINF:-1 tvg-id="NGCCLA" tvg-name="ES: NATIONAL GEOGRAPHIC SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f4HQbepHBofGs6wGtsrdqEjBLd80r0KzW_-4WSxW0x4H1Bzggg7KtJsN2kacevXjgQ.png" group-title="España",ES: NATIONAL GEOGRAPHIC SD
+http://faucontv.live:8080/@messie12/b5HS41z/21795
+#EXTINF:-1 tvg-id="NATWILA" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="España",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21796
+#EXTINF:-1 tvg-id="NATWILA" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="España",ES: NATIONAL GEOGRAPHIC WILD HD
+http://faucontv.live:8080/@messie12/b5HS41z/21797
+#EXTINF:-1 tvg-id="NATWILA" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1d6mJlFpqWOPORoYM_dtTYLO18j7SSOZ1CSV1EIAY6XXg.png" group-title="España",ES: NATIONAL GEOGRAPHIC WILD SD
+http://faucontv.live:8080/@messie12/b5HS41z/21798
+#EXTINF:-1 tvg-name="ES: NEOX FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Iin_sdt3ytkhFKf5TAR8TqTWG_q8nWZi9JEVHNNTz-ikg.png" group-title="España",ES: NEOX FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21799
+#EXTINF:-1 tvg-name="ES: NEOX HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uxvn6sA9JAB2F3rYp3vM8W1Umz5DvnTpUsJbSqFOIlTqw.png" group-title="España",ES: NEOX HD
+http://faucontv.live:8080/@messie12/b5HS41z/21800
+#EXTINF:-1 tvg-name="ES: NEOX SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Iin_sdt3ytkhFKf5TAR8TqTWG_q8nWZi9JEVHNNTz-ikg.png" group-title="España",ES: NEOX SD
+http://faucontv.live:8080/@messie12/b5HS41z/21801
+#EXTINF:-1 tvg-name="ES: NICK JUNIOR SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1cnMnK17NToWYjK_SkTe3TWSncgOFdvV83NtdR5qi09xA.png" group-title="España",ES: NICK JUNIOR SD
+http://faucontv.live:8080/@messie12/b5HS41z/21802
+#EXTINF:-1 tvg-id="NICJLA" tvg-name="ES: NICK JUNIOR SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f7KAGERjIKs81XLq7B0YD1cnMnK17NToWYjK_SkTe3TWSncgOFdvV83NtdR5qi09xA.png" group-title="España",ES: NICK JUNIOR SD
+http://faucontv.live:8080/@messie12/b5HS41z/21803
+#EXTINF:-1 tvg-name="ES: NICKELODEON FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DX4zs8degjTxRk-brmNUR3pOVP1WBziFUrdR6iCjU-njg.png" group-title="España",ES: NICKELODEON FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21804
+#EXTINF:-1 tvg-name="ES: NOVA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWKyhIlA624l6iXhUfwepneipblbP9gYlTsiQbSrg1fjw.png" group-title="España",ES: NOVA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21805
+#EXTINF:-1 tvg-name="ES: NOVA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UyJiW9QTEb5FBmQyKE0fQpmaQthD1133p97BE0Cmwtf4Q.png" group-title="España",ES: NOVA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21806
+#EXTINF:-1 tvg-name="ES: NOVA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWKyhIlA624l6iXhUfwepneipblbP9gYlTsiQbSrg1fjw.png" group-title="España",ES: NOVA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21807
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ES: ODISEA FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14IXpHUNcZxqNVbqTfva2tfMD9H5w7wEYUei6X-a2TBTQ.png" group-title="España",ES: ODISEA FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21811
+#EXTINF:-1 tvg-id="ODISEHD" tvg-name="ES: ODISEA HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtSTSS8JZG_jtA0nx8U6CNO.png" group-title="España",ES: ODISEA HD
+http://faucontv.live:8080/@messie12/b5HS41z/21812
+#EXTINF:-1 tvg-id="ODSEATV" tvg-name="ES: ODISEA SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c14IXpHUNcZxqNVbqTfva2tfMD9H5w7wEYUei6X-a2TBTQ.png" group-title="España",ES: ODISEA SD
+http://faucontv.live:8080/@messie12/b5HS41z/21813
+#EXTINF:-1 tvg-name="ES: PARAMOUNT CHANNEL HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuoBtoJFwpORleX4as20rXdaaz5lnqOFqigiInKacQdjw.png" group-title="España",ES: PARAMOUNT CHANNEL HD
+http://faucontv.live:8080/@messie12/b5HS41z/21815
+#EXTINF:-1 tvg-name="ES: PARAMOUNT CHANNEL SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwuoBtoJFwpORleX4as20rXdaaz5lnqOFqigiInKacQdjw.png" group-title="España",ES: PARAMOUNT CHANNEL SD
+http://faucontv.live:8080/@messie12/b5HS41z/21816
+#EXTINF:-1 tvg-name="ES: REAL MADRID TV HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UxDnecYSmpgvhTHKFvVW2K8.png" group-title="España",ES: REAL MADRID TV HD
+http://faucontv.live:8080/@messie12/b5HS41z/21820
+#EXTINF:-1 tvg-name="ES: RED BULL TV FHD" tvg-logo="s:1:/images/TZzJRUKbhWPhT2wFoG4aT4PPNNNakCABQH0RirAe5mM3U-Ty1wgK-xPtb2GNBloQBoTGkNpvUkbyyTr2iTRTZ1H1gmYFZetN84SuIjHF29jEuVbLWJIELLWE48PBfpPR7JEmLmbo4_hQEkm657qAzJeszU_s6s5YYQ2F6A35GS4.png" group-title="España",ES: RED BULL TV FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21821
+#EXTINF:-1 tvg-name="ES: SOLIDARIA TV" tvg-logo="http://graph.facebook.com/solidariatv/picture?width=320&height=320" group-title="España",ES: SOLIDARIA TV
+http://faucontv.live:8080/@messie12/b5HS41z/21825
+#EXTINF:-1 tvg-id="SOMO" tvg-name="ES: SOMOS FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwv7q6BggDubBn7DMJ39PIQKNNwhawMQMtdslv2yHKerbg.png" group-title="España",ES: SOMOS FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21826
+#EXTINF:-1 tvg-name="ES: SUNDANCE FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="España",ES: SUNDANCE FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21827
+#EXTINF:-1 tvg-name="ES: SUNDANCE HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="España",ES: SUNDANCE HD
+http://faucontv.live:8080/@messie12/b5HS41z/21828
+#EXTINF:-1 tvg-name="ES: SUNDANCE SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c174Na1Rjx0PKPuaB0zW6oX8HV2iK3-Oi1gjKQVil1ogNw.png" group-title="España",ES: SUNDANCE SD
+http://faucontv.live:8080/@messie12/b5HS41z/21829
+#EXTINF:-1 tvg-name="ES: SYFY FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="España",ES: SYFY FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21831
+#EXTINF:-1 tvg-name="ES: SYFY HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="España",ES: SYFY HD
+http://faucontv.live:8080/@messie12/b5HS41z/21832
+#EXTINF:-1 tvg-name="ES: SYFY SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c17Eb6zCMpJ1dAkygYA9CCh9OxmRz4Zc9YzaHk_8wy2w2A.png" group-title="España",ES: SYFY SD
+http://faucontv.live:8080/@messie12/b5HS41z/21833
+#EXTINF:-1 tvg-name="ES: TCM FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="España",ES: TCM FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21834
+#EXTINF:-1 tvg-name="ES: TCM HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="España",ES: TCM HD
+http://faucontv.live:8080/@messie12/b5HS41z/21835
+#EXTINF:-1 tvg-name="ES: TCM SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzSONetYQVa59C5cjtdV9d83wrwfhC0Dr8NyBaC-ibSHQ.png" group-title="España",ES: TCM SD
+http://faucontv.live:8080/@messie12/b5HS41z/21836
+#EXTINF:-1 tvg-name="ES: TELECINCO FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c1457343mb3pefgovbb8ryr_F6aByDApr-N9xcJlLTCgbw.png" group-title="España",ES: TELECINCO FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21837
+#EXTINF:-1 tvg-name="ES: TELECINCO HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwtsBRld14gz2HqabgQIcHN8T__cK3eiAO3lxS1qlexOtQ.png" group-title="España",ES: TELECINCO HD
+http://faucontv.live:8080/@messie12/b5HS41z/21838
+#EXTINF:-1 tvg-name="ES: TELECINCO SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f-HZ08f7I9MxrBfA8gb5c1457343mb3pefgovbb8ryr_F6aByDApr-N9xcJlLTCgbw.png" group-title="España",ES: TELECINCO SD
+http://faucontv.live:8080/@messie12/b5HS41z/21839
+#EXTINF:-1 tvg-name="ES: TELEDEPORTE FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzMA0oWhnN37HXcoiuGaJvBFZYUtcw1J_wqCijju8x8ew.png" group-title="España",ES: TELEDEPORTE FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21840
+#EXTINF:-1 tvg-name="ES: TELEDEPORTE HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsghvYQveHN7KOxJka0I0s5bpBbO_at0krsA3AZrHe-Ng.png" group-title="España",ES: TELEDEPORTE HD
+http://faucontv.live:8080/@messie12/b5HS41z/21841
+#EXTINF:-1 tvg-name="ES: TELEDEPORTE SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_UzMA0oWhnN37HXcoiuGaJvBFZYUtcw1J_wqCijju8x8ew.png" group-title="España",ES: TELEDEPORTE SD
+http://faucontv.live:8080/@messie12/b5HS41z/21842
+#EXTINF:-1 tvg-name="ES: TELEONUBA" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qN2cm8kYrdZ2vjdS74ivYQuJkc5XycAVriqwRgWQwXBcK9afKh3CJ5sKxR2EX3CMuY.png" group-title="España",ES: TELEONUBA
+http://faucontv.live:8080/@messie12/b5HS41z/21843
+#EXTINF:-1 tvg-name="ES: TELESAFOR" group-title="España",ES: TELESAFOR
+http://faucontv.live:8080/@messie12/b5HS41z/21844
+#EXTINF:-1 tvg-name="ES: TNT FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="España",ES: TNT FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21845
+#EXTINF:-1 tvg-name="ES: TNT HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="España",ES: TNT HD
+http://faucontv.live:8080/@messie12/b5HS41z/21846
+#EXTINF:-1 tvg-name="ES: TNT SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6IhjPsrD59Nl5yNw9cs8jW-cAp8tIyCtdbOUXdb0HxMxVg.png" group-title="España",ES: TNT SD
+http://faucontv.live:8080/@messie12/b5HS41z/21847
+#EXTINF:-1 tvg-name="ES: TOROS FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsvay95qpTtbGEL1Mrah2l3NYZt9L-y7KlWb2nPOCQ9mQ.png" group-title="España",ES: TOROS FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21848
+#EXTINF:-1 tvg-name="ES: TOROS HD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsPbLUxKem9pnVjjTB67woM-Vr37dFb1cxBLQrjfbEylw.png" group-title="España",ES: TOROS HD
+http://faucontv.live:8080/@messie12/b5HS41z/21849
+#EXTINF:-1 tvg-name="ES: TOROS SD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzwsvay95qpTtbGEL1Mrah2l3NYZt9L-y7KlWb2nPOCQ9mQ.png" group-title="España",ES: TOROS SD
+http://faucontv.live:8080/@messie12/b5HS41z/21850
+#EXTINF:-1 tvg-name="ES: TRECE" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWAXVXjgnsQGYhEJh8fdQDmYMMsl-AkGkeO4UQUYOW12g.png" group-title="España",ES: TRECE
+http://faucontv.live:8080/@messie12/b5HS41z/21851
+#EXTINF:-1 tvg-name="ES: TV GIRONA" tvg-logo="http://graph.facebook.com/tvgirona/picture?width=320&height=320" group-title="España",ES: TV GIRONA
+http://faucontv.live:8080/@messie12/b5HS41z/21852
+#EXTINF:-1 tvg-name="ES: TV3" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DXzLw5Zx3t43OSqYNTyZlsI1o2w1r67wzm2NVd4YesCkA.png" group-title="España",ES: TV3
+http://faucontv.live:8080/@messie12/b5HS41z/21853
+#EXTINF:-1 tvg-name="ES: TVE Internacional" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3fxWQN72Qyd77QumLBT_w_Uz4NK1Llqt8I8PBNeI_gPuo69P_yLyHkRnyXcCNWHzR9g.png" group-title="España",ES: TVE Internacional
+http://faucontv.live:8080/@messie12/b5HS41z/21855
+#EXTINF:-1 tvg-id="TVGES" tvg-name="ES: TVG" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f80TEUpNwFl2GS_cAjVvzws559JkVlQj2W-JtI6nqXyrV_7LPc4vA2jB-O8KBgJsSg.png" group-title="España",ES: TVG
+http://faucontv.live:8080/@messie12/b5HS41z/21856
+#EXTINF:-1 tvg-id="tvG2.es" tvg-name="ES: TVG 2" tvg-logo="http://live.phenixiptv.com:8080/images/sViDqpFKOkKzmuIwJmZIrve2jfvXP5DHP3EAoR1Yv5RFcJf_FHS9E4hB0p0-24eCBuuVrMAz2e4h4CLNj949-NM32NAuGR20xdsy6tYAR-c3a5zpNSv2mVcMbDlUgmRt.jpeg" group-title="España",ES: TVG 2
+http://faucontv.live:8080/@messie12/b5HS41z/21857
+#EXTINF:-1 tvg-name="ES: TVG CULTURA" tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="España",ES: TVG CULTURA
+http://faucontv.live:8080/@messie12/b5HS41z/21858
+#EXTINF:-1 tvg-name="ES: TVG EVENTO 2" tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="España",ES: TVG EVENTO 2
+http://faucontv.live:8080/@messie12/b5HS41z/21859
+#EXTINF:-1 tvg-name="ES: TVG INFANTIL" tvg-logo="s:1:/images/n4lzzwUv4pIAcP23-t9cRPDsAHj_-wrVv1xq3QwCs-mjEc_q8oqQCtV-o0BdQqVpsaOcOSz1uKCH19RAh1owBfF2BCbKvJSIglV-iWivaX06fd2SpsG3FxLqztuUFaeJN6V3fgy6iPV2Qxmhadz-5_HxM_P6Gb3go6s9I5ILgrbNUt9J2uo-YcalqEma2z4-.png" group-title="España",ES: TVG INFANTIL
+http://faucontv.live:8080/@messie12/b5HS41z/21860
+#EXTINF:-1 tvg-name="ES: TVG MUSIGAL" tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320" group-title="España",ES: TVG MUSIGAL
+http://faucontv.live:8080/@messie12/b5HS41z/21861
+#EXTINF:-1 tvg-id="UBEAT" tvg-name="ES: U-BEAT HD" group-title="España",ES: U-BEAT HD
+http://faucontv.live:8080/@messie12/b5HS41z/21862
+#EXTINF:-1 tvg-id="VH1MGAM" tvg-name="ES: VH1" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f8uDVSRgi18DU2W4elGk6Ijl_b2LkJr1DDgLOlakv2oamz1WlnZw3guQtEx4r_rMiQ.png" group-title="España",ES: VH1
+http://faucontv.live:8080/@messie12/b5HS41z/21865
+#EXTINF:-1 tvg-name="ES: XTRM FHD" tvg-logo="s:1:/images/okrogMi_vuwoQtY4PLc3f3UhRWxBE3ltnbw2dzpf4DWrfErKfCWT_2Y8NC4w3zbJkRIfM02sqCIvjOhvP8lOvQ.png" group-title="España",ES: XTRM FHD
+http://faucontv.live:8080/@messie12/b5HS41z/21866
+#EXTINF:-1 group-title="Otros",10.7 OASIS
+http://191.97.60.193:10000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Otros",13.2 TV UNIVERSO - FERREÑAFE
+http://191.97.60.193:10000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Otros",13.5 K9 - FERREÑAFE
+http://191.97.60.193:10000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Otros",13.6 URIOL TV
+http://191.97.60.193:10000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Otros",13.8 RTVC
+http://191.97.60.193:10000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Otros",15.1 TV CARIOCA
+http://191.97.60.193:10000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Otros",15.2 AUTENTICA  TV
+http://191.97.60.193:10000/play/a046/index.m3u8
+#EXTINF:-1 group-title="Otros",15.4 TV EN LINEA
+http://191.97.60.193:10000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Otros",15.5 PIURA PLUS
+http://191.97.60.193:10000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Otros",15.7 GENIOS TV
+http://191.97.60.193:10000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Otros",15.8 UNICENTRO TV
+http://191.97.60.193:10000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Otros",20.2 SOPHIA TV
+http://191.97.60.193:10000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Otros",31.3 SUPREME MASTER TV
+http://191.97.60.193:10000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="Otros",The Word Network
+http://191.97.60.193:10000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Otros",The Word Network-respaldo
+http://191.97.60.193:10000/play/a01t/index.m3u8
